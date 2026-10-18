@@ -1,0 +1,5047 @@
+{
+  "roles": [
+    {
+      "id": "rfdb2828c",
+      "name": "阿塔尼斯",
+      "intro": "来自《20261011-091410_音轨》的一个声音 · 216 段素材 · 17 分 56 秒",
+      "kind": "speech",
+      "kind_locked": true,
+      "color": "#6c8cff",
+      "source": "20261011-172838_音轨.wav",
+      "created": "2026-10-11 09:27",
+      "segments": [
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000020800_0000182080.wav",
+          "dur": 5.04,
+          "voiced": 0.5802,
+          "text": "盛唐武士准备就绪，同意reno朋友。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000182080_0000317760.wav",
+          "dur": 4.24,
+          "voiced": 0.8071,
+          "text": "为了达拉姆没错roris了。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000324480_0000455040.wav",
+          "dur": 4.08,
+          "voiced": 0.7262,
+          "text": "即使是在阴影中，也并非孤身一人阻长。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000455040_0000598400.wav",
+          "dur": 4.48,
+          "voiced": 0.7283,
+          "text": "别让它变成了不利因素，为了害尔之光。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000598400_0000771520.wav",
+          "dur": 5.41,
+          "voiced": 0.7048,
+          "text": "说的好上架，而我会帮你实现它老朋友。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000771520_0000976640.wav",
+          "dur": 6.41,
+          "voiced": 0.7695,
+          "text": "我们向胜利进发告阶，执行官团结一致，永不言败。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000976640_0001140480.wav",
+          "dur": 5.12,
+          "voiced": 0.768,
+          "text": "达拉姆万岁，新的黎明即将到来。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001140480_0001302400.wav",
+          "dur": 5.06,
+          "voiced": 0.7239,
+          "text": "为埃尔而战，团结一心，所向披靡。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001302400_0001473600.wav",
+          "dur": 5.35,
+          "voiced": 0.7743,
+          "text": "看来我必须独自度过这个难关，为何要拖延？"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001473600_0001618560.wav",
+          "dur": 4.53,
+          "voiced": 0.7555,
+          "text": "让我们去和敌人战斗吧，正在输送资源。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001618560_0001799040.wav",
+          "dur": 5.64,
+          "voiced": 0.7664,
+          "text": "资源输送完成，希望这些资源能够帮到你。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001799040_0001940480.wav",
+          "dur": 4.42,
+          "voiced": 0.7223,
+          "text": "我的资源不足，我需要额外的资源。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001940480_0002105600.wav",
+          "dur": 5.16,
+          "voiced": 0.7408,
+          "text": "我的资源储量不够，资源已接收，谢谢。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002105600_0002284160.wav",
+          "dur": 5.58,
+          "voiced": 0.6977,
+          "text": "这些资源会派上大用场单，谢谢你朋友。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002284160_0002435200.wav",
+          "dur": 4.72,
+          "voiced": 0.7505,
+          "text": "正在输送晶体矿晶体矿输送开始。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002435200_0002598400.wav",
+          "dur": 5.1,
+          "voiced": 0.8082,
+          "text": "好好利用这些晶体矿吧，你还有多的晶体矿吗？"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002598400_0002839360.wav",
+          "dur": 7.53,
+          "voiced": 0.8395,
+          "text": "我的晶体矿不足，你还有多的吗？我需要额外的晶体矿，如果你有多的话。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002839360_0003013440.wav",
+          "dur": 5.44,
+          "voiced": 0.7523,
+          "text": "晶体矿已接收，谢谢。这些晶体矿会帮上大忙。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003013440_0003134080.wav",
+          "dur": 3.77,
+          "voiced": 0.7275,
+          "text": "谢谢，正在输送高能瓦斯。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003134080_0003342720.wav",
+          "dur": 6.52,
+          "voiced": 0.8116,
+          "text": "以输送高能马斯储备，希望这些高能马斯能对你有所帮助。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003342720_0003464960.wav",
+          "dur": 3.82,
+          "voiced": 0.8538,
+          "text": "我需要额外的高能马斯，如果你有多的话。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003464960_0003626240.wav",
+          "dur": 5.04,
+          "voiced": 0.796,
+          "text": "我的高能马斯储量不足，你还有多的高能马斯吗？"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003626240_0003776320.wav",
+          "dur": 4.69,
+          "voiced": 0.7638,
+          "text": "瓦斯已收到，谢谢高能瓦斯输送完毕。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003776320_0003953920.wav",
+          "dur": 5.55,
+          "voiced": 0.8615,
+          "text": "谢谢你我的朋友，谢谢这些高能马斯会派上大用场。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003953920_0004097280.wav",
+          "dur": 4.48,
+          "voiced": 0.8263,
+          "text": "我们遇到了敌对的人类侦测到敌对人类部队。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0004097280_0004235840.wav",
+          "dur": 4.33,
+          "voiced": 0.871,
+          "text": "发现敌方异虫。发现敌方益虫部队。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0004235840_0004425920.wav",
+          "dur": 5.94,
+          "voiced": 0.805,
+          "text": "看来我们的敌人是心灵，发现敌方心灵准备作战。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0004425920_0004546880.wav",
+          "dur": 3.78,
+          "voiced": 0.6939,
+          "text": "做好准备，我们要去摧毁那个目标。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0004546880_0004733120.wav",
+          "dur": 5.82,
+          "voiced": 0.7015,
+          "text": "我们很快就能消灭他。盛唐武士使命必达。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0004733120_0004938880.wav",
+          "dur": 6.43,
+          "voiced": 0.7391,
+          "text": "我们正与任务目标交战，盛唐武士加入了一场光荣的战斗。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0004938880_0005096320.wav",
+          "dur": 4.92,
+          "voiced": 0.641,
+          "text": "我的战士正在攻击目标漂亮的仪仗。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0005096320_0005320320.wav",
+          "dur": 7.0,
+          "voiced": 0.6719,
+          "text": "完成了目标已被摧毁，这就是对抗盛唐武士的下场。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0005320320_0005490880.wav",
+          "dur": 5.33,
+          "voiced": 0.6966,
+          "text": "干得好，战士们，敌人受到了我们沉重的打击。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0005490880_0005653440.wav",
+          "dur": 5.08,
+          "voiced": 0.7132,
+          "text": "他正想撤离点移动，我们得去拦截他他们想逃跑。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0005653440_0005782080.wav",
+          "dur": 4.02,
+          "voiced": 0.7122,
+          "text": "我们要坚决予以拦截，他正在快速移动。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0005782080_0005965440.wav",
+          "dur": 5.73,
+          "voiced": 0.7753,
+          "text": "战士们，别让他逃出我们的手掌心，我的部队正在攻击任务目标。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0005965440_0006124480.wav",
+          "dur": 4.97,
+          "voiced": 0.6667,
+          "text": "盛堂武士们消灭他，我们正在追击任务目标。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0006124480_0006259200.wav",
+          "dur": 4.21,
+          "voiced": 0.7014,
+          "text": "别让他逃出我们的手掌心，这绝不能容忍。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0006259200_0006444160.wav",
+          "dur": 5.78,
+          "voiced": 0.7185,
+          "text": "快摧毁他，没有谁能够轻易逃脱盛唐武士的怒火。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0006444160_0006558080.wav",
+          "dur": 3.56,
+          "voiced": 0.7255,
+          "text": "干得好，我们成功阻击了任务目标。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0006558080_0006675520.wav",
+          "dur": 3.67,
+          "voiced": 0.7337,
+          "text": "我们齐心协力，没有敌人能够逃脱。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0006675520_0006880320.wav",
+          "dur": 6.4,
+          "voiced": 0.7441,
+          "text": "目标已遭到了遏制，很好敌人的计划暂时落空了。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0006880320_0007058560.wav",
+          "dur": 5.57,
+          "voiced": 0.6649,
+          "text": "我们绝不能失去它做好准备，必须确保他的安全。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0007058560_0007256640.wav",
+          "dur": 6.19,
+          "voiced": 0.7403,
+          "text": "盛唐武士会保护他的盛唐武士正在保护任务目标。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0007256640_0007418880.wav",
+          "dur": 5.07,
+          "voiced": 0.7244,
+          "text": "我的部队准备好防守了，战士们坚持住。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0007418880_0007598400.wav",
+          "dur": 5.61,
+          "voiced": 0.6726,
+          "text": "我们是不可战胜的，盛唐武士能抵挡一切威胁。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0007598400_0007724160.wav",
+          "dur": 3.93,
+          "voiced": 0.7056,
+          "text": "干得好任务目标完好无损。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0007731200_0007883840.wav",
+          "dur": 4.77,
+          "voiced": 0.7322,
+          "text": "漂亮的防守战士们，大家做的很好。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0007883840_0008056640.wav",
+          "dur": 5.4,
+          "voiced": 0.7283,
+          "text": "任务完成目标，安全了，立刻将之夺取。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0008056640_0008183360.wav",
+          "dur": 3.96,
+          "voiced": 0.6851,
+          "text": "做好准备，我们必须尽快控制该区域。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0008183360_0008317440.wav",
+          "dur": 4.19,
+          "voiced": 0.7024,
+          "text": "任务目标已被标记，准备好，就开始行动。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0008319040_0008511360.wav",
+          "dur": 6.01,
+          "voiced": 0.6894,
+          "text": "战士们，别放一个敌人进来，我的部队正在肃清这个区域。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0008511360_0008699200.wav",
+          "dur": 5.87,
+          "voiced": 0.7313,
+          "text": "我的战士们正在肃清目标区域，盛唐武士占领了该区域。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0008705920_0008860800.wav",
+          "dur": 4.84,
+          "voiced": 0.6804,
+          "text": "干得好任务目标是我们的了。干得漂亮。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0008860800_0009035200.wav",
+          "dur": 5.45,
+          "voiced": 0.6538,
+          "text": "我们已经占领了这片区域，很好，已经夺取目标。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0009035200_0009166080.wav",
+          "dur": 4.09,
+          "voiced": 0.722,
+          "text": "我们必须马上夺取，他不要迟疑个战士们。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0009166080_0009317440.wav",
+          "dur": 4.73,
+          "voiced": 0.7405,
+          "text": "我们要立即拿下任务目标，那我们就要迅速获取它。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0009317440_0009498560.wav",
+          "dur": 5.66,
+          "voiced": 0.7743,
+          "text": "我们已夺取任务目标任务目标现已处于我方保护之下。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0009498560_0009660160.wav",
+          "dur": 5.05,
+          "voiced": 0.7312,
+          "text": "我的部队已占领目标地区做得好，战士们。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0009660160_0009833920.wav",
+          "dur": 5.43,
+          "voiced": 0.6471,
+          "text": "完美无缺，没错，干得好，兄弟们。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0009833920_0010011840.wav",
+          "dur": 5.56,
+          "voiced": 0.6571,
+          "text": "盛唐武士大获全胜，让我们的敌人记住这一天。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0010011840_0010198080.wav",
+          "dur": 5.82,
+          "voiced": 0.6758,
+          "text": "我们马上运走它快做好准备，我们要立即进行运送。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0010198080_0010372480.wav",
+          "dur": 5.45,
+          "voiced": 0.7784,
+          "text": "准备送到安全区域，我的部队正在运送运送任务目标。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0010372480_0010516160.wav",
+          "dur": 4.49,
+          "voiced": 0.7667,
+          "text": "我们正在运送任务目标任务目标在路上了。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0010521920_0010653760.wav",
+          "dur": 4.12,
+          "voiced": 0.7554,
+          "text": "运送完成，我们已将他送至安全地点。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0010653760_0010791040.wav",
+          "dur": 4.29,
+          "voiced": 0.6814,
+          "text": "盛唐武士保护好任务目标很好。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0010791040_0010927040.wav",
+          "dur": 4.25,
+          "voiced": 0.6784,
+          "text": "抵达终点了干得漂亮盛，唐，武士。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0010927040_0011092480.wav",
+          "dur": 5.17,
+          "voiced": 0.6622,
+          "text": "准备行动，立刻前往支援，我们绝不能失去他。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0011092480_0011257920.wav",
+          "dur": 5.17,
+          "voiced": 0.7375,
+          "text": "此战到底我们不能在这里落败，我们绝不容许。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0011257920_0011409920.wav",
+          "dur": 4.75,
+          "voiced": 0.7437,
+          "text": "盛唐武士出击，所有部队立即支援目标。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0011409920_0011563200.wav",
+          "dur": 4.79,
+          "voiced": 0.7104,
+          "text": "动作快升堂，武士在任务目标周围展开队形。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0011563200_0011739840.wav",
+          "dur": 5.52,
+          "voiced": 0.7414,
+          "text": "我的战士们正在保护任务目标，我们正在保护任务目标。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0011739840_0011863680.wav",
+          "dur": 3.87,
+          "voiced": 0.7036,
+          "text": "胜利在望，继续战斗。为了胜利。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0011863680_0011991040.wav",
+          "dur": 3.98,
+          "voiced": 0.6291,
+          "text": "前进就快到了，不要懈怠。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0011991040_0012111680.wav",
+          "dur": 3.77,
+          "voiced": 0.6667,
+          "text": "一场光荣的胜利任务完成。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0012111680_0012249600.wav",
+          "dur": 4.31,
+          "voiced": 0.6759,
+          "text": "我们胜利了，任务圆满完成。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0012249600_0012421440.wav",
+          "dur": 5.37,
+          "voiced": 0.632,
+          "text": "干得好，这下应该安全了，那我们就去护送他吧。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0012421440_0012556800.wav",
+          "dur": 4.23,
+          "voiced": 0.7123,
+          "text": "我们要确保它的安全集结在目标周围。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0012556800_0012718400.wav",
+          "dur": 5.05,
+          "voiced": 0.747,
+          "text": "我们要确保其安全，我的战士们正在护送任务目标。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0012718400_0012925440.wav",
+          "dur": 6.47,
+          "voiced": 0.7407,
+          "text": "盛唐武士，肃清这条道路，不惜一切代价保护任务目标。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0012925440_0013054080.wav",
+          "dur": 4.02,
+          "voiced": 0.66,
+          "text": "顺利抵达圣，唐，武士归队。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0013054080_0013223680.wav",
+          "dur": 5.3,
+          "voiced": 0.7966,
+          "text": "任务目标已抵达终点，看来我们抵达终点了。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0013223680_0013379200.wav",
+          "dur": 4.86,
+          "voiced": 0.6427,
+          "text": "我们是牢不可破的护盾，只要团结一致。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0013379200_0013506560.wav",
+          "dur": 3.98,
+          "voiced": 0.7744,
+          "text": "我们无所不能做好准备战士们。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0013506560_0013677760.wav",
+          "dur": 5.35,
+          "voiced": 0.7052,
+          "text": "让敌人有来无回升，唐，武士，坚守阵地。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0013677760_0013794560.wav",
+          "dur": 3.65,
+          "voiced": 0.7404,
+          "text": "只要团结一心，必将战，无不胜。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0013794560_0013975680.wav",
+          "dur": 5.66,
+          "voiced": 0.739,
+          "text": "敌人会向我们发动攻击，在此之前应做好防御准备。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0013975680_0014134080.wav",
+          "dur": 4.95,
+          "voiced": 0.75,
+          "text": "胜利就在眼前，兄弟连心其利断金。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0014135360_0014263360.wav",
+          "dur": 4.0,
+          "voiced": 0.6858,
+          "text": "盛唐，武士，严阵以待，绝不动摇。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0014263360_0014399680.wav",
+          "dur": 4.26,
+          "voiced": 0.7494,
+          "text": "时间不多了，我们必须坚持到底。兄弟们。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0014399680_0014515840.wav",
+          "dur": 3.63,
+          "voiced": 0.6951,
+          "text": "胜利就在眼前坚持到底。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0014515840_0014644800.wav",
+          "dur": 4.03,
+          "voiced": 0.6238,
+          "text": "坚持住胜利的曙光就在眼前。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0014644800_0014788160.wav",
+          "dur": 4.48,
+          "voiced": 0.686,
+          "text": "敌人扑过来了，盛唐武士亮出光刃。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0014788160_0014973440.wav",
+          "dur": 5.79,
+          "voiced": 0.7224,
+          "text": "我们的对手企图消灭我们盛唐武士好好招待他们。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0014979520_0015115520.wav",
+          "dur": 4.25,
+          "voiced": 0.8263,
+          "text": "敌人正朝我们袭来，我们必须正面迎接他们。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0015115520_0015281280.wav",
+          "dur": 5.18,
+          "voiced": 0.7592,
+          "text": "侦测到敌方部队准备防御。侦测到敌方部队。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0015281280_0015500160.wav",
+          "dur": 6.84,
+          "voiced": 0.7285,
+          "text": "盛唐武士准备拦截敌人，抵达了我的枢纽。盛唐武士，亮出光刃。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0015500160_0015643840.wav",
+          "dur": 4.49,
+          "voiced": 0.7289,
+          "text": "战士们准备战斗敌人，正在攻击我们的枢纽。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0015643840_0015777280.wav",
+          "dur": 4.17,
+          "voiced": 0.7751,
+          "text": "敌人正朝我们袭来，我们必须正面迎击他们。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0015784320_0015899520.wav",
+          "dur": 3.6,
+          "voiced": 0.8698,
+          "text": "侦测到敌方部队正在朝我们的枢纽移动。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0015899520_0016038400.wav",
+          "dur": 4.34,
+          "voiced": 0.7149,
+          "text": "侦测到敌方部队盛，唐，武士准备拦截。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0016038400_0016189120.wav",
+          "dur": 4.71,
+          "voiced": 0.6589,
+          "text": "敌人即将来袭，战士们准备战斗。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0016189120_0016353600.wav",
+          "dur": 5.14,
+          "voiced": 0.7282,
+          "text": "做好准备，敌人要来了，战士们准备战斗。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0016353600_0016516160.wav",
+          "dur": 5.08,
+          "voiced": 0.7682,
+          "text": "敌人朝我们的基地来了，我们的敌人企图消灭我们。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0016516160_0016673920.wav",
+          "dur": 4.93,
+          "voiced": 0.6984,
+          "text": "盛唐武士好好招待他们侦测到敌方部队。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0016673920_0016873920.wav",
+          "dur": 6.25,
+          "voiced": 0.7891,
+          "text": "准备防御传感器，侦测隐形单位，我们需要侦测单位位来追踪他们。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0016873920_0017097920.wav",
+          "dur": 7.0,
+          "voiced": 0.7817,
+          "text": "敌人有隐形单位，我们需要侦测单位做好准备。艾马放出了混合体。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0017097920_0017274880.wav",
+          "dur": 5.53,
+          "voiced": 0.6606,
+          "text": "混合体消灭他们混合体现身了。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0017283840_0017421440.wav",
+          "dur": 4.3,
+          "voiced": 0.6891,
+          "text": "A梦的爪牙无处不在，看到了。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0017421440_0017559040.wav",
+          "dur": 4.3,
+          "voiced": 0.7865,
+          "text": "我们得迅速消灭他们，我正在激活紧急护盾。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0017559040_0017678080.wav",
+          "dur": 3.72,
+          "voiced": 0.7507,
+          "text": "激活紧急护盾，激活护盾。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0017678080_0017853120.wav",
+          "dur": 5.47,
+          "voiced": 0.8248,
+          "text": "我正在为我们的部队提供护盾，为战士们提供护盾。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0017853120_0017973760.wav",
+          "dur": 3.77,
+          "voiced": 0.7407,
+          "text": "让你们见识一下亚顿之矛的力量。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0017973760_0018171200.wav",
+          "dur": 6.17,
+          "voiced": 0.8495,
+          "text": "亚顿之矛所向无敌感受。亚顿之矛的怒火吧。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0018171200_0018349760.wav",
+          "dur": 5.58,
+          "voiced": 0.8211,
+          "text": "战局对我们的战士太不利了，我的战士们坚持不住了。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0018349760_0018533440.wav",
+          "dur": 5.74,
+          "voiced": 0.7757,
+          "text": "我的盛唐武士遭受了巨大的损失，我的部队损失惨重。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0018533440_0018658560.wav",
+          "dur": 3.91,
+          "voiced": 0.8393,
+          "text": "我得重新集结部队，我需要增援。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0018658560_0018776960.wav",
+          "dur": 3.7,
+          "voiced": 0.8356,
+          "text": "我需要你的帮助，快帮我。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0018776960_0018938880.wav",
+          "dur": 5.06,
+          "voiced": 0.6509,
+          "text": "谢谢你朋友干得好我的盟友。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0018938880_0019116800.wav",
+          "dur": 5.56,
+          "voiced": 0.772,
+          "text": "团结就是力量，我的朋友打的真漂亮。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0019116800_0019281280.wav",
+          "dur": 5.14,
+          "voiced": 0.7223,
+          "text": "精彩绝伦的战斗，打的漂亮，我的盟友。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0019281280_0019454400.wav",
+          "dur": 5.41,
+          "voiced": 0.7583,
+          "text": "一场辉煌的胜利，艾尔之光照耀着我们。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0019454400_0019675200.wav",
+          "dur": 6.9,
+          "voiced": 0.6831,
+          "text": "干得好，我的朋友确实不错，盛唐，武士所向披靡。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0019675200_0019744320.wav",
+          "dur": 2.16,
+          "voiced": 0.5899,
+          "text": "我们赢了。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000064320_0000248000.wav",
+          "dur": 5.74,
+          "voiced": 0.7652,
+          "text": "我们需要更多的补给站，你必须建造更多的补给站。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000253120_0000461120.wav",
+          "dur": 6.5,
+          "voiced": 0.8049,
+          "text": "那必须要有更多的补给站才行，我们的军队已和敌人交火。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000466240_0000564800.wav",
+          "dur": 3.08,
+          "voiced": 0.7702,
+          "text": "我们的SCV正在遭受攻击。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000578240_0000772160.wav",
+          "dur": 6.06,
+          "voiced": 0.7331,
+          "text": "敌人正在攻击我们的SDV一处瓦斯气旋已枯竭。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000783040_0000911680.wav",
+          "dur": 4.02,
+          "voiced": 0.8437,
+          "text": "我们已经惊遍了此处气权里的所有瓦斯。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000926400_0001065280.wav",
+          "dur": 4.34,
+          "voiced": 0.7034,
+          "text": "投陆区被阻挡，无法在那里着。陆。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001073280_0001256960.wav",
+          "dur": 5.74,
+          "voiced": 0.7339,
+          "text": "附属建筑搭建完毕，附属建筑已建造完毕。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001265600_0001466880.wav",
+          "dur": 6.29,
+          "voiced": 0.7905,
+          "text": "核弹头也装配就绪，我们的核聚变武器也装配完毕。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001472640_0001636800.wav",
+          "dur": 5.13,
+          "voiced": 0.7393,
+          "text": "指挥中心也升级，我们的雷神已修复。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001641600_0001838720.wav",
+          "dur": 6.16,
+          "voiced": 0.7585,
+          "text": "正在部署幻龙这些人类名字真是。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001851520_0002012480.wav",
+          "dur": 5.03,
+          "voiced": 0.6905,
+          "text": "我们回收了一处残骸，建造被中断。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002012480_0002090560.wav",
+          "dur": 2.44,
+          "voiced": 0.7755,
+          "text": "如果我们能折越这些就好了。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002131840_0002362880.wav",
+          "dur": 7.22,
+          "voiced": 0.7441,
+          "text": "孵化更多的王虫，你那令人作舞的虫群，需要更多的王虫。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002373440_0002542720.wav",
+          "dur": 5.29,
+          "voiced": 0.6774,
+          "text": "需要更多的王虫，你的虫群遭遇了敌人。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002549760_0002712320.wav",
+          "dur": 5.08,
+          "voiced": 0.776,
+          "text": "弓风遭到攻击，你的弓风正在惨遭屠戮。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002725120_0002907200.wav",
+          "dur": 5.69,
+          "voiced": 0.7982,
+          "text": "此处瓦斯巨权已将彻底枯竭，瓦斯已经枯竭。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002912640_0003090240.wav",
+          "dur": 5.55,
+          "voiced": 0.6655,
+          "text": "一个军团肿瘤正在遭受攻击，计划完成。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003094720_0003296640.wav",
+          "dur": 6.31,
+          "voiced": 0.7263,
+          "text": "你那可恶的异虫进化来，必须在军毯上才能辨异。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003302080_0003431680.wav",
+          "dur": 4.05,
+          "voiced": 0.7069,
+          "text": "蜕变完成，蜕变成功。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003437760_0003666240.wav",
+          "dur": 7.14,
+          "voiced": 0.7399,
+          "text": "变异完成，你那奇丑无比的异虫。变异成了某种新形态。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003671040_0003829440.wav",
+          "dur": 4.95,
+          "voiced": 0.7258,
+          "text": "一只新的虫后出生来，一只虫后出剑来。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003904320_0004085120.wav",
+          "dur": 5.65,
+          "voiced": 0.7208,
+          "text": "我们需要建造更多的水晶塔，我们的补给不足。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0004089600_0004273920.wav",
+          "dur": 5.76,
+          "voiced": 0.6932,
+          "text": "我们需要更多的水晶塔，我们的水晶塔受到攻击。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0004290560_0004472960.wav",
+          "dur": 5.7,
+          "voiced": 0.6585,
+          "text": "神之长子正与敌人交战，我们的探机遭到攻击。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0004477440_0004570880.wav",
+          "dur": 2.92,
+          "voiced": 0.7782,
+          "text": "敌人正在攻击我们的探机。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0004591040_0004764160.wav",
+          "dur": 5.41,
+          "voiced": 0.5074,
+          "text": "升级完成升级已经完成。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0004776000_0004967360.wav",
+          "dur": 5.98,
+          "voiced": 0.6978,
+          "text": "必须放置在能量场内，只能放置在瓦斯气旋上。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0004974080_0005125120.wav",
+          "dur": 4.72,
+          "voiced": 0.7082,
+          "text": "空间折月完成，折月完毕。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0005140480_0005317120.wav",
+          "dur": 5.52,
+          "voiced": 0.6673,
+          "text": "一处瓦斯气权已经枯竭，瓦斯气权已经枯竭。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0005350080_0005471040.wav",
+          "dur": 3.78,
+          "voiced": 0.8153,
+          "text": "我们的吸纳仓必须放置在瓦斯气泉上。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0005512960_0005707840.wav",
+          "dur": 6.09,
+          "voiced": 0.7459,
+          "text": "我们接收到一条传输讯息，我们需要更多的高能马斯。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0005707840_0005866560.wav",
+          "dur": 4.96,
+          "voiced": 0.7203,
+          "text": "高能瓦斯不足，需要更多的高能瓦斯。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0005874240_0006024960.wav",
+          "dur": 4.71,
+          "voiced": 0.7182,
+          "text": "晶体矿不足，需要更多的晶体矿。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0006033280_0006164800.wav",
+          "dur": 4.11,
+          "voiced": 0.7087,
+          "text": "晶体矿不足，能量不足。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0006169600_0006349440.wav",
+          "dur": 5.62,
+          "voiced": 0.7123,
+          "text": "没有足够的能量，我们的基地正遭到攻击。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0006354560_0006508800.wav",
+          "dur": 4.82,
+          "voiced": 0.7019,
+          "text": "研发完成，研发已经完成。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0006527680_0006714240.wav",
+          "dur": 5.83,
+          "voiced": 0.6438,
+          "text": "人类发射了聚变打击武器，侦测到在途的聚变打击。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0006734720_0006876800.wav",
+          "dur": 4.44,
+          "voiced": 0.5618,
+          "text": "升级完成升级已经完成。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0006895680_0007081920.wav",
+          "dur": 5.82,
+          "voiced": 0.6398,
+          "text": "我们的盟友正与敌人交战，盟友的基地正遭到攻击。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0007117440_0007288000.wav",
+          "dur": 5.33,
+          "voiced": 0.6086,
+          "text": "困脉已经枯竭，一处。困脉已经枯竭。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0007303680_0007458240.wav",
+          "dur": 4.83,
+          "voiced": 0.5062,
+          "text": "我们的一处旷脉枯竭了，战士们。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0007458240_0007648000.wav",
+          "dur": 5.93,
+          "voiced": 0.6094,
+          "text": "看来得等一等了，战斗之火再次点燃。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0007655680_0007775040.wav",
+          "dur": 3.73,
+          "voiced": 0.7059,
+          "text": "无法执行，我们已达到最大补给。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0007780800_0007859200.wav",
+          "dur": 2.45,
+          "voiced": 0.5976,
+          "text": "我们的战士数量过多。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0007993600_0008179200.wav",
+          "dur": 5.8,
+          "voiced": 0.6076,
+          "text": "不多了，听我说时间不多了。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0008196480_0008407360.wav",
+          "dur": 6.59,
+          "voiced": 0.7939,
+          "text": "摆在你们面前的是这个种族和文明，在战火中存留下来的一切。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0008407360_0008556480.wav",
+          "dur": 4.66,
+          "voiced": 0.6702,
+          "text": "还有在艾尔地表上那些被孵化的东西。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0008580480_0008847040.wav",
+          "dur": 8.33,
+          "voiced": 0.7866,
+          "text": "我们的族人曾掌控星系，我们的前途曾充满荣光，但在傲慢与分裂中。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0008847040_0009002560.wav",
+          "dur": 4.86,
+          "voiced": 0.8583,
+          "text": "我们辜负了神圣的职责，走向了灭亡。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0009037440_0009352320.wav",
+          "dur": 9.84,
+          "voiced": 0.7675,
+          "text": "阿拉本该是团结我们的纽带，却最终铸成了这场分裂。他的希望只是一个谎言。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0009352320_0009486400.wav",
+          "dur": 4.19,
+          "voiced": 0.8548,
+          "text": "如今，我们必须抛弃这个谎言。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0009486400_0009606720.wav",
+          "dur": 3.76,
+          "voiced": 0.7321,
+          "text": "还有我们的偏见和傲慢。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0009611200_0009764480.wav",
+          "dur": 4.79,
+          "voiced": 0.8542,
+          "text": "让这一切融成美丽史史。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0009768320_0009970240.wav",
+          "dur": 6.31,
+          "voiced": 0.8513,
+          "text": "我们正为同样的信念而战，坚信我们一族绝不会就此终结。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0009989120_0010356480.wav",
+          "dur": 11.48,
+          "voiced": 0.8494,
+          "text": "坚信我们心灵能秉承同样的信念，团结一致。坚信我们心灵能够创造一个伟大而又强盛的文明。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0010414400_0010559680.wav",
+          "dur": 4.54,
+          "voiced": 0.8659,
+          "text": "在战斗中，信任彼此凝聚义志。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0010611520_0010784000.wav",
+          "dur": 5.39,
+          "voiced": 0.6259,
+          "text": "让这最后一战，永垂不朽，让我们。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0010784640_0010854400.wav",
+          "dur": 2.18,
+          "voiced": 0.7991,
+          "text": "永远被铭记。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0011546240_0011680000.wav",
+          "dur": 4.18,
+          "voiced": 0.6038,
+          "text": "虫群摧毁了我们的家园。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0011795840_0011940800.wav",
+          "dur": 4.53,
+          "voiced": 0.7026,
+          "text": "我高贵的族，人们沦为难民。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0012061440_0012199040.wav",
+          "dur": 4.3,
+          "voiced": 0.2877,
+          "text": "但是虫群无妨。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0012199040_0012268800.wav",
+          "dur": 2.18,
+          "voiced": 0.7945,
+          "text": "摧毁我们的意志。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0012443200_0012593280.wav",
+          "dur": 4.69,
+          "voiced": 0.7681,
+          "text": "因为神圣的卡拉连接着我们每个人的思想。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0012593280_0012765760.wav",
+          "dur": 5.39,
+          "voiced": 0.6852,
+          "text": "让我们在绝望之中团结一致。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000000000_0000133440.wav",
+          "dur": 4.17,
+          "voiced": 0.7177,
+          "text": "他想用黄金舰队来阻止我们破坏他躯体的话。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000143040_0000253440.wav",
+          "dur": 3.45,
+          "voiced": 0.711,
+          "text": "你说的对，必须摧毁明能矩阵。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000307520_0000548160.wav",
+          "dur": 7.52,
+          "voiced": 0.7158,
+          "text": "虽然你与卡拉的连接确实有其价值，但是时候让你从a梦手中获得解脱。兰。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001259840_0001396160.wav",
+          "dur": 4.26,
+          "voiced": 0.5972,
+          "text": "弄堂武士们，我们终于。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001396160_0001514560.wav",
+          "dur": 3.7,
+          "voiced": 0.7925,
+          "text": "又站在了命运的十字路口。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001528000_0001694400.wav",
+          "dur": 5.2,
+          "voiced": 0.7639,
+          "text": "因为今天我们将恢复属于心灵的荣耀。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001725760_0001855040.wav",
+          "dur": 4.04,
+          "voiced": 0.5827,
+          "text": "今天我们将重振旗鼓。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001855040_0001964160.wav",
+          "dur": 3.41,
+          "voiced": 0.8567,
+          "text": "夺回属于我们自己的家园。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002382720_0002449920.wav",
+          "dur": 2.1,
+          "voiced": 0.5924,
+          "text": "是我的。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002891840_0002958400.wav",
+          "dur": 2.08,
+          "voiced": 0.3684,
+          "text": "原谅我。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000019840_0000208000.wav",
+          "dur": 5.88,
+          "voiced": 0.5569,
+          "text": "让我一个人安静一下，战士们担心他们的领袖。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000260800_0000304640.wav",
+          "dur": 1.37,
+          "voiced": 0.5507,
+          "text": "幸福。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000427520_0000622080.wav",
+          "dur": 6.08,
+          "voiced": 0.5928,
+          "text": "我们是古老而高贵的创作，如今我们所剩无几。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000622080_0000739840.wav",
+          "dur": 3.68,
+          "voiced": 0.6883,
+          "text": "而明天又将出生入死。如果您。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000790400_0000971200.wav",
+          "dur": 5.65,
+          "voiced": 0.4965,
+          "text": "合而为翼，但在卡拉的光辉之下。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000971200_0001129280.wav",
+          "dur": 4.94,
+          "voiced": 0.6667,
+          "text": "在我们的命运之中，我们又以此对同胞。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001129280_0001269120.wav",
+          "dur": 4.37,
+          "voiced": 0.4817,
+          "text": "举起了武器，你是说黑暗升堂武士。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001269120_0001432640.wav",
+          "dur": 5.11,
+          "voiced": 0.4473,
+          "text": "你惊叹到切断了与卡拉的联系。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001512000_0001669440.wav",
+          "dur": 4.92,
+          "voiced": 0.4564,
+          "text": "而我们将他们视为异端，想要把他们赶尽杀绝。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001669440_0001884160.wav",
+          "dur": 6.71,
+          "voiced": 0.6146,
+          "text": "我们抛弃了团结和统一，像在万世之战时那样，在内耗中日渐衰弱。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001886720_0002021760.wav",
+          "dur": 4.22,
+          "voiced": 0.4303,
+          "text": "于是。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002031360_0002194240.wav",
+          "dur": 5.09,
+          "voiced": 0.4804,
+          "text": "我们付出了代价，我们彼此间的怀疑。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002194240_0002363840.wav",
+          "dur": 5.3,
+          "voiced": 0.3597,
+          "text": "遭受了爱，加油是因为我。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002762880_0002947200.wav",
+          "dur": 5.76,
+          "voiced": 0.7158,
+          "text": "你这么说，是因为送他们上战场的那个人都是你我这么说是因为我。"
+        }
+      ],
+      "ref": {
+        "file": "v0_vocal_source.wav_10.wav_0005965440_0006124480.wav",
+        "text": "盛堂武士们消灭他，我们正在追击任务目标。"
+      },
+      "model": {
+        "ckpt": "GPT_weights_v5turbo/rfdb2828c-e150.ckpt",
+        "epochs": 150,
+        "at": "2026-10-11 09:42",
+        "quality": "custom",
+        "verified": true
+      },
+      "rvc": {
+        "model": "rfdb2828c.pth",
+        "epochs": 600,
+        "at": "2026-10-11 21:25",
+        "weight_epoch": null,
+        "pretrained": true,
+        "index": true
+      },
+      "outputs": [
+        {
+          "text": "今天天气不错，我们一起去公园散散步，顺便聊聊最近发生的事情。",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\jobs\\j443a408d\\verify_rfdb2828c-e150.ckpt.wav",
+          "at": "2026-10-11 09:42",
+          "kind": "speech",
+          "track": "体检样本 · 150 轮",
+          "seconds": 4.96,
+          "similarity": 0.793
+        },
+        {
+          "text": "你好指挥官  我是你们经常乳的大主教 我喜欢高坚果",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1011_094415_01.wav",
+          "at": "2026-10-11 09:44",
+          "kind": "speech",
+          "seconds": 4.88,
+          "similarity": 0.792
+        },
+        {
+          "text": "嘟比Dubi - 神耀（星际争霸同人歌）.mp3",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\mix_sing_1011_123850.wav",
+          "at": "2026-10-11 12:56",
+          "kind": "singing",
+          "track": "成品（人声+伴奏）",
+          "seconds": 224.89,
+          "stems": {
+            "mix": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\mix_sing_1011_123850.wav",
+            "voice": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\voice_sing_1011_123850.wav",
+            "inst": "D:\\AHC\\VoiceStudio\\data\\cache\\sep\\c87d4fda43e474ab\\inst.wav",
+            "src": "D:\\AHC\\VoiceStudio\\data\\uploads\\嘟比Dubi - 神耀（星际争霸同人歌）.mp3"
+          },
+          "qc": {
+            "src_med": 297.99,
+            "dst_med": 260.33,
+            "shift_semitones": 0.02,
+            "match_ratio": 0.7718,
+            "match_ratio_at_zero": 0.7943,
+            "contour_corr": 0.8615,
+            "dev_iqr_cents": 44.4,
+            "src_iqr_cents": 488.9,
+            "dst_iqr_cents": 452.2,
+            "spread_ratio": 0.9248,
+            "lag_ms": -20,
+            "aligned_frames": 1271,
+            "voiced_lag_ms": 0.0,
+            "voiced_lag_corr": 0.6757,
+            "hop_ms": 9.997,
+            "frames": 3001,
+            "voiced_src": 1854,
+            "voiced_dst": 1366,
+            "dst_peak": 0.9853,
+            "clip_ratio": 0.0,
+            "dst_rms": 0.133
+          }
+        },
+        {
+          "text": "嘟比Dubi - 神耀（星际争霸同人歌）.mp3",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\voice_sing_1011_123850.wav",
+          "at": "2026-10-11 12:56",
+          "kind": "singing",
+          "track": "人声（干声）",
+          "seconds": 224.86,
+          "stems": {
+            "mix": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\mix_sing_1011_123850.wav",
+            "voice": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\voice_sing_1011_123850.wav",
+            "inst": "D:\\AHC\\VoiceStudio\\data\\cache\\sep\\c87d4fda43e474ab\\inst.wav",
+            "src": "D:\\AHC\\VoiceStudio\\data\\uploads\\嘟比Dubi - 神耀（星际争霸同人歌）.mp3"
+          },
+          "qc": {
+            "src_med": 297.99,
+            "dst_med": 260.33,
+            "shift_semitones": 0.02,
+            "match_ratio": 0.7718,
+            "match_ratio_at_zero": 0.7943,
+            "contour_corr": 0.8615,
+            "dev_iqr_cents": 44.4,
+            "src_iqr_cents": 488.9,
+            "dst_iqr_cents": 452.2,
+            "spread_ratio": 0.9248,
+            "lag_ms": -20,
+            "aligned_frames": 1271,
+            "voiced_lag_ms": 0.0,
+            "voiced_lag_corr": 0.6757,
+            "hop_ms": 9.997,
+            "frames": 3001,
+            "voiced_src": 1854,
+            "voiced_dst": 1366,
+            "dst_peak": 0.9853,
+            "clip_ratio": 0.0,
+            "dst_rms": 0.133
+          }
+        },
+        {
+          "text": "你怎么敢这么做！",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1016_135947_01.wav",
+          "at": "2026-10-16 14:00",
+          "kind": "speech",
+          "seconds": 1.72,
+          "similarity": 0.6951,
+          "tone": "angry",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0013677760_0013794560.wav"
+        },
+        {
+          "text": "别怕，我在这里。",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1016_135947_02.wav",
+          "at": "2026-10-16 14:00",
+          "kind": "speech",
+          "seconds": 2.12,
+          "similarity": 0.7568,
+          "tone": "tender",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0002284160_0002435200.wav"
+        },
+        {
+          "text": "这句话没有标签，就用平时的语气。",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1016_135947_03.wav",
+          "at": "2026-10-16 14:00",
+          "kind": "speech",
+          "seconds": 3.64,
+          "similarity": 0.7787,
+          "tone": "",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0005965440_0006124480.wav"
+        },
+        {
+          "text": "快走，他们要来了！",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1016_135947_04.wav",
+          "at": "2026-10-16 14:00",
+          "kind": "speech",
+          "seconds": 2.42,
+          "similarity": 0.764,
+          "tone": "low_urgent",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0017678080_0017853120.wav"
+        },
+        {
+          "text": "你怎么敢这么做！",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1016_140212_01.wav",
+          "at": "2026-10-16 14:02",
+          "kind": "speech",
+          "seconds": 1.72,
+          "similarity": 0.7297,
+          "tone": "angry",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0013677760_0013794560.wav"
+        },
+        {
+          "text": "别怕，我在这里。",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1016_140212_02.wav",
+          "at": "2026-10-16 14:02",
+          "kind": "speech",
+          "seconds": 2.08,
+          "similarity": 0.7522,
+          "tone": "tender",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0002284160_0002435200.wav"
+        },
+        {
+          "text": "这句话没有标签，就用平时的语气。",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1016_140212_03.wav",
+          "at": "2026-10-16 14:02",
+          "kind": "speech",
+          "seconds": 3.8,
+          "similarity": 0.7864,
+          "tone": "",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0005965440_0006124480.wav"
+        },
+        {
+          "text": "快走，他们要来了！",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1016_140212_04.wav",
+          "at": "2026-10-16 14:02",
+          "kind": "speech",
+          "seconds": 2.22,
+          "similarity": 0.7643,
+          "tone": "low_urgent",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0017678080_0017853120.wav"
+        },
+        {
+          "text": "你怎么敢这么做！",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1016_140332_01.wav",
+          "at": "2026-10-16 14:04",
+          "kind": "speech",
+          "seconds": 1.72,
+          "similarity": 0.7454,
+          "tone": "angry",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0013677760_0013794560.wav"
+        },
+        {
+          "text": "别怕，我在这里。",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1016_140332_02.wav",
+          "at": "2026-10-16 14:04",
+          "kind": "speech",
+          "seconds": 2.08,
+          "similarity": 0.7656,
+          "tone": "tender",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0002284160_0002435200.wav"
+        },
+        {
+          "text": "这句话没有标签，就用平时的语气。",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1016_140332_03.wav",
+          "at": "2026-10-16 14:04",
+          "kind": "speech",
+          "seconds": 3.56,
+          "similarity": 0.7661,
+          "tone": "",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0005965440_0006124480.wav"
+        },
+        {
+          "text": "快走，他们要来了！",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1016_140332_04.wav",
+          "at": "2026-10-16 14:04",
+          "kind": "speech",
+          "seconds": 2.22,
+          "similarity": 0.7563,
+          "tone": "low_urgent",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0017678080_0017853120.wav"
+        },
+        {
+          "text": "嘟比Dubi - 神耀（星际争霸同人歌）.mp3",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\mix_preview_latest.wav",
+          "at": "2026-10-17 11:02",
+          "kind": "preview",
+          "track": "成品（人声+伴奏）",
+          "seconds": 12.0,
+          "lyric": "",
+          "lyric_lrc": "",
+          "stems": {
+            "mix": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\mix_preview_latest.wav",
+            "voice": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\voiceg_preview_latest.wav",
+            "inst": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\_pv_inst_latest.wav",
+            "src": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\_pv_voice_latest.wav"
+          },
+          "qc": {
+            "src_med": 261.28,
+            "dst_med": 262.38,
+            "shift_semitones": -0.01,
+            "match_ratio": 0.9184,
+            "match_ratio_loose": 0.9866,
+            "octave_err_ratio": 0.003,
+            "contour_corr": 0.9808,
+            "contour_corr_best": 0.9856,
+            "contour_lag_ms": 10.0,
+            "dev_iqr_cents": 13.9,
+            "src_iqr_cents": 500.0,
+            "dst_iqr_cents": 504.7,
+            "spread_ratio": 1.0094,
+            "lag_ms": 0.0,
+            "aligned_frames": 674,
+            "voiced_lag_ms": 0.0,
+            "voiced_lag_corr": 0.9747,
+            "hop_ms": 9.992,
+            "frames": 1199,
+            "voiced_src": 700,
+            "voiced_dst": 700,
+            "dst_peak": 0.8923,
+            "clip_ratio": 0.0,
+            "dst_rms": 0.1215,
+            "consonant_sim": null,
+            "consonant_frames": 0,
+            "hf_ratio_src": 0.0,
+            "hf_ratio_dst": 0.0,
+            "skipped_secs": 1.43,
+            "skipped_spec": "9.970-11.400"
+          },
+          "qc_whole": null,
+          "nonvocal": {
+            "mode": "keep",
+            "protected_secs": 1.43,
+            "segments": [
+              [
+                9.97,
+                11.4
+              ]
+            ]
+          },
+          "params": {
+            "pitch": 0,
+            "pitch_asked": 0,
+            "model": "rfdb2828c.pth",
+            "f0": "rmvpe",
+            "index_rate": 0.75,
+            "rms_mix_rate": null,
+            "protect": null,
+            "engine": "rvc",
+            "nonvocal": "keep",
+            "audition": null
+          }
+        },
+        {
+          "text": "嘟比Dubi - 神耀（星际争霸同人歌）.mp3",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\voiceg_preview_latest.wav",
+          "at": "2026-10-17 11:02",
+          "kind": "preview",
+          "track": "人声（干声）",
+          "seconds": 11.98,
+          "lyric": "",
+          "lyric_lrc": "",
+          "stems": {
+            "mix": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\mix_preview_latest.wav",
+            "voice": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\voiceg_preview_latest.wav",
+            "inst": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\_pv_inst_latest.wav",
+            "src": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\_pv_voice_latest.wav"
+          },
+          "qc": {
+            "src_med": 261.28,
+            "dst_med": 262.38,
+            "shift_semitones": -0.01,
+            "match_ratio": 0.9184,
+            "match_ratio_loose": 0.9866,
+            "octave_err_ratio": 0.003,
+            "contour_corr": 0.9808,
+            "contour_corr_best": 0.9856,
+            "contour_lag_ms": 10.0,
+            "dev_iqr_cents": 13.9,
+            "src_iqr_cents": 500.0,
+            "dst_iqr_cents": 504.7,
+            "spread_ratio": 1.0094,
+            "lag_ms": 0.0,
+            "aligned_frames": 674,
+            "voiced_lag_ms": 0.0,
+            "voiced_lag_corr": 0.9747,
+            "hop_ms": 9.992,
+            "frames": 1199,
+            "voiced_src": 700,
+            "voiced_dst": 700,
+            "dst_peak": 0.8923,
+            "clip_ratio": 0.0,
+            "dst_rms": 0.1215,
+            "consonant_sim": null,
+            "consonant_frames": 0,
+            "hf_ratio_src": 0.0,
+            "hf_ratio_dst": 0.0,
+            "skipped_secs": 1.43,
+            "skipped_spec": "9.970-11.400"
+          },
+          "qc_whole": null,
+          "nonvocal": {
+            "mode": "keep",
+            "protected_secs": 1.43,
+            "segments": [
+              [
+                9.97,
+                11.4
+              ]
+            ]
+          },
+          "params": {
+            "pitch": 0,
+            "pitch_asked": 0,
+            "model": "rfdb2828c.pth",
+            "f0": "rmvpe",
+            "index_rate": 0.75,
+            "rms_mix_rate": null,
+            "protect": null,
+            "engine": "rvc",
+            "nonvocal": "keep",
+            "audition": null
+          }
+        },
+        {
+          "text": "这是一次接入验证。",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1018_132549_01.wav",
+          "at": "2026-10-18 13:26",
+          "kind": "speech",
+          "seconds": 2.28,
+          "similarity": 0.7734,
+          "tone": "calm",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0007303680_0007458240.wav",
+          "segs": 1,
+          "warn": ""
+        },
+        {
+          "text": "测试一句。",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1018_222049_01.wav",
+          "at": "2026-10-18 22:21",
+          "kind": "speech",
+          "seconds": 1.44,
+          "similarity": 0.7228,
+          "tone": "",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0005965440_0006124480.wav",
+          "segs": 1,
+          "warn": ""
+        },
+        {
+          "text": "立即返回测试。",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1018_223044_01.wav",
+          "at": "2026-10-18 22:31",
+          "kind": "speech",
+          "seconds": 1.8,
+          "similarity": 0.6965,
+          "tone": "",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0005965440_0006124480.wav",
+          "segs": 1,
+          "warn": ""
+        },
+        {
+          "text": "异步全流程测试。",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1018_223500_01.wav",
+          "at": "2026-10-18 22:35",
+          "kind": "speech",
+          "seconds": 2.04,
+          "similarity": 0.7817,
+          "tone": "",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0005965440_0006124480.wav",
+          "segs": 1,
+          "warn": ""
+        },
+        {
+          "text": "yue2_6b3b364b7baf.wav",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\mix_new_1018_222759.wav",
+          "at": "2026-10-18 22:36",
+          "kind": "singing",
+          "track": "成品（人声+伴奏）",
+          "seconds": 120.0,
+          "lyric": "",
+          "lyric_lrc": "",
+          "stems": {
+            "mix": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\mix_new_1018_222759.wav",
+            "voice": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\voiceg_new_1018_222759.wav",
+            "inst": "D:\\AHC\\VoiceStudio\\data\\cache\\sep\\93be2561b6f42ca0\\inst.wav",
+            "src": "D:\\AHC\\YuE2-Studio\\out\\yue2_6b3b364b7baf.wav"
+          },
+          "qc": {
+            "src_med": 214.04,
+            "dst_med": 213.99,
+            "shift_semitones": -0.03,
+            "match_ratio": 0.8613,
+            "match_ratio_loose": 0.9559,
+            "octave_err_ratio": 0.0074,
+            "contour_corr": 0.7976,
+            "contour_corr_best": 0.8081,
+            "contour_lag_ms": 10.0,
+            "dev_iqr_cents": 18.7,
+            "src_iqr_cents": 55.3,
+            "dst_iqr_cents": 59.0,
+            "spread_ratio": 1.0678,
+            "lag_ms": -20.0,
+            "aligned_frames": 952,
+            "voiced_lag_ms": -20.0,
+            "voiced_lag_corr": 0.9698,
+            "hop_ms": 9.997,
+            "frames": 3001,
+            "voiced_src": 1033,
+            "voiced_dst": 1061,
+            "dst_peak": 0.6362,
+            "clip_ratio": 0.0,
+            "dst_rms": 0.0836,
+            "consonant_sim": null,
+            "consonant_frames": 0,
+            "hf_ratio_src": 0.0,
+            "hf_ratio_dst": 0.0,
+            "skipped_secs": 0.0,
+            "skipped_spec": ""
+          },
+          "qc_whole": {
+            "windows": 4,
+            "win_secs": 30.0,
+            "tot_secs": 120.0,
+            "match_ratio": 0.9079355426356589,
+            "match_ratio_loose": 0.969381492248062,
+            "octave_err_ratio": 0.003289941860465117,
+            "spread_ratio": 1.0301446899224806,
+            "contour_corr": 0.69665,
+            "dev_iqr_cents": 21.85,
+            "shift_semitones": -0.035,
+            "worst_octave": 0.012,
+            "worst_at": 60.0,
+            "worst_match": 0.9446,
+            "per_window": [
+              {
+                "at": 0.0,
+                "octave_err_ratio": 0.0,
+                "match_ratio_loose": 0.9885,
+                "contour_corr": 0.9892
+              },
+              {
+                "at": 30.0,
+                "octave_err_ratio": 0.0063,
+                "match_ratio_loose": 0.959,
+                "contour_corr": 0.7143
+              },
+              {
+                "at": 60.0,
+                "octave_err_ratio": 0.012,
+                "match_ratio_loose": 0.9446,
+                "contour_corr": 0.7036
+              },
+              {
+                "at": 90.0,
+                "octave_err_ratio": 0.0012,
+                "match_ratio_loose": 0.9485,
+                "contour_corr": 0.3795
+              }
+            ]
+          },
+          "nonvocal": {
+            "mode": "keep",
+            "protected_secs": 1.17,
+            "segments": [
+              [
+                26.11,
+                26.35
+              ],
+              [
+                29.39,
+                30.32
+              ]
+            ]
+          },
+          "params": {
+            "pitch": 0,
+            "pitch_asked": 0,
+            "model": "rfdb2828c.pth",
+            "f0": "rmvpe",
+            "index_rate": 0.5,
+            "rms_mix_rate": null,
+            "protect": null,
+            "engine": "rvc",
+            "nonvocal": "keep",
+            "audition": {
+              "start": 10.0,
+              "starts": [
+                10.0,
+                65.0,
+                99.0
+              ],
+              "secs": 30.0,
+              "montage": "取 3 段 × 10 秒",
+              "cands": [
+                {
+                  "pitch": 0,
+                  "match": 0.9784,
+                  "octave": 0.0,
+                  "contour": 0.9913
+                },
+                {
+                  "pitch": -12,
+                  "match": 0.9947,
+                  "octave": 0.0,
+                  "contour": 0.9935
+                },
+                {
+                  "pitch": 12,
+                  "match": 0.534,
+                  "octave": 0.052,
+                  "contour": -0.404
+                }
+              ],
+              "chosen": 0,
+              "changed": false,
+              "reason": "八度错 0.0%（阈值 11%）—— 这一档没问题；不过 -12 只有 0.0%，想更稳可以换它重唱一版对比（没替你改，仍按你设的 +0 唱）",
+              "skipped": null
+            }
+          },
+          "origin": {
+            "kind": "yue2-new-song",
+            "style": "dark ambient",
+            "lyrics": "test",
+            "duration": 120.0,
+            "job": "jaa1d8f35",
+            "song_id": "6b3b364b7baf67c9",
+            "elapsed": 310.6,
+            "abc": "X:1\nT:\nM:4/4\nL:1/16\nQ:1/4=90\nV: Vocal clef=treble name=\"Vocal Melody\" snm=\"Vocal\"\nV: Ins clef=treble name=\"Ins Melody\" snm=\"Inst.\"\nK:Cm\n% intro\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\n% verse\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c"
+          }
+        },
+        {
+          "text": "yue2_6b3b364b7baf.wav",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\voiceg_new_1018_222759.wav",
+          "at": "2026-10-18 22:36",
+          "kind": "singing",
+          "track": "人声（干声）",
+          "seconds": 119.98,
+          "lyric": "",
+          "lyric_lrc": "",
+          "stems": {
+            "mix": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\mix_new_1018_222759.wav",
+            "voice": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\voiceg_new_1018_222759.wav",
+            "inst": "D:\\AHC\\VoiceStudio\\data\\cache\\sep\\93be2561b6f42ca0\\inst.wav",
+            "src": "D:\\AHC\\YuE2-Studio\\out\\yue2_6b3b364b7baf.wav"
+          },
+          "qc": {
+            "src_med": 214.04,
+            "dst_med": 213.99,
+            "shift_semitones": -0.03,
+            "match_ratio": 0.8613,
+            "match_ratio_loose": 0.9559,
+            "octave_err_ratio": 0.0074,
+            "contour_corr": 0.7976,
+            "contour_corr_best": 0.8081,
+            "contour_lag_ms": 10.0,
+            "dev_iqr_cents": 18.7,
+            "src_iqr_cents": 55.3,
+            "dst_iqr_cents": 59.0,
+            "spread_ratio": 1.0678,
+            "lag_ms": -20.0,
+            "aligned_frames": 952,
+            "voiced_lag_ms": -20.0,
+            "voiced_lag_corr": 0.9698,
+            "hop_ms": 9.997,
+            "frames": 3001,
+            "voiced_src": 1033,
+            "voiced_dst": 1061,
+            "dst_peak": 0.6362,
+            "clip_ratio": 0.0,
+            "dst_rms": 0.0836,
+            "consonant_sim": null,
+            "consonant_frames": 0,
+            "hf_ratio_src": 0.0,
+            "hf_ratio_dst": 0.0,
+            "skipped_secs": 0.0,
+            "skipped_spec": ""
+          },
+          "qc_whole": {
+            "windows": 4,
+            "win_secs": 30.0,
+            "tot_secs": 120.0,
+            "match_ratio": 0.9079355426356589,
+            "match_ratio_loose": 0.969381492248062,
+            "octave_err_ratio": 0.003289941860465117,
+            "spread_ratio": 1.0301446899224806,
+            "contour_corr": 0.69665,
+            "dev_iqr_cents": 21.85,
+            "shift_semitones": -0.035,
+            "worst_octave": 0.012,
+            "worst_at": 60.0,
+            "worst_match": 0.9446,
+            "per_window": [
+              {
+                "at": 0.0,
+                "octave_err_ratio": 0.0,
+                "match_ratio_loose": 0.9885,
+                "contour_corr": 0.9892
+              },
+              {
+                "at": 30.0,
+                "octave_err_ratio": 0.0063,
+                "match_ratio_loose": 0.959,
+                "contour_corr": 0.7143
+              },
+              {
+                "at": 60.0,
+                "octave_err_ratio": 0.012,
+                "match_ratio_loose": 0.9446,
+                "contour_corr": 0.7036
+              },
+              {
+                "at": 90.0,
+                "octave_err_ratio": 0.0012,
+                "match_ratio_loose": 0.9485,
+                "contour_corr": 0.3795
+              }
+            ]
+          },
+          "nonvocal": {
+            "mode": "keep",
+            "protected_secs": 1.17,
+            "segments": [
+              [
+                26.11,
+                26.35
+              ],
+              [
+                29.39,
+                30.32
+              ]
+            ]
+          },
+          "params": {
+            "pitch": 0,
+            "pitch_asked": 0,
+            "model": "rfdb2828c.pth",
+            "f0": "rmvpe",
+            "index_rate": 0.5,
+            "rms_mix_rate": null,
+            "protect": null,
+            "engine": "rvc",
+            "nonvocal": "keep",
+            "audition": {
+              "start": 10.0,
+              "starts": [
+                10.0,
+                65.0,
+                99.0
+              ],
+              "secs": 30.0,
+              "montage": "取 3 段 × 10 秒",
+              "cands": [
+                {
+                  "pitch": 0,
+                  "match": 0.9784,
+                  "octave": 0.0,
+                  "contour": 0.9913
+                },
+                {
+                  "pitch": -12,
+                  "match": 0.9947,
+                  "octave": 0.0,
+                  "contour": 0.9935
+                },
+                {
+                  "pitch": 12,
+                  "match": 0.534,
+                  "octave": 0.052,
+                  "contour": -0.404
+                }
+              ],
+              "chosen": 0,
+              "changed": false,
+              "reason": "八度错 0.0%（阈值 11%）—— 这一档没问题；不过 -12 只有 0.0%，想更稳可以换它重唱一版对比（没替你改，仍按你设的 +0 唱）",
+              "skipped": null
+            }
+          },
+          "origin": {
+            "kind": "yue2-new-song",
+            "style": "dark ambient",
+            "lyrics": "test",
+            "duration": 120.0,
+            "job": "jaa1d8f35",
+            "song_id": "6b3b364b7baf67c9",
+            "elapsed": 310.6,
+            "abc": "X:1\nT:\nM:4/4\nL:1/16\nQ:1/4=90\nV: Vocal clef=treble name=\"Vocal Melody\" snm=\"Vocal\"\nV: Ins clef=treble name=\"Ins Melody\" snm=\"Inst.\"\nK:Cm\n% intro\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\n% verse\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|c2e2c2e2c2e2c2e2|\nV: Vocal\n\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\"Cm\"z16|\nV: Ins\nc2e2c2e2c2e2c2e2|c2e2c2e2c2e2c"
+          }
+        },
+        {
+          "text": "异步全流程测试。",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1018_223554_01.wav",
+          "at": "2026-10-18 22:36",
+          "kind": "speech",
+          "seconds": 2.04,
+          "similarity": 0.7948,
+          "tone": "",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0005965440_0006124480.wav",
+          "segs": 1,
+          "warn": ""
+        },
+        {
+          "text": "验收测试。",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\rfdb2828c\\final\\say_1018_223719_01.wav",
+          "at": "2026-10-18 22:37",
+          "kind": "speech",
+          "seconds": 1.56,
+          "similarity": 0.7523,
+          "tone": "",
+          "ref_clip": "v0_vocal_source.wav_10.wav_0005965440_0006124480.wav",
+          "segs": 1,
+          "warn": ""
+        }
+      ],
+      "stats": {
+        "segments": 212,
+        "seconds": 1057.7
+      },
+      "kind_guess": {
+        "kind": "speech",
+        "conf": 0.52,
+        "why": "有声帧占比中位 0.73（说话通常 > 0.72）"
+      },
+      "split_info": {
+        "segments": 216,
+        "seconds": 1076.2
+      },
+      "_added": 18,
+      "updated": "2026-10-11 09:43",
+      "voice": {
+        "center": [
+          -0.1763961016592836,
+          0.1071393531215646,
+          -0.07594585714591444,
+          -0.022423248639180327,
+          -0.07040961133170354,
+          0.0088742974833579,
+          -0.07961611098827277,
+          -0.01180735793874432,
+          -0.02300811835158559,
+          0.07297352128131218,
+          -0.0763776736425609,
+          0.02503386520043996,
+          0.06371186937564141,
+          -0.011492771256507968,
+          0.11093901132979671,
+          0.031049685833790978,
+          -0.030234782997061536,
+          0.050907080855223066,
+          0.020818404457240515,
+          0.05598134470951645,
+          0.12463591024431253,
+          -0.02836571443817431,
+          0.037514376654794346,
+          0.02698539321451082,
+          0.0746879710396925,
+          0.10887335005754359,
+          -0.026143203140892447,
+          -0.004059145892548807,
+          -0.02104782119913412,
+          0.018537593766006385,
+          -0.11041632834762294,
+          0.024154788033114293,
+          -0.13453203800089444,
+          0.022226135395511316,
+          0.04693230214144974,
+          -0.08199313724625683,
+          0.015799431305121618,
+          0.025773189965967735,
+          -0.020321564273646436,
+          0.0024107249371745974,
+          0.08026907564954222,
+          0.025514024451301538,
+          0.12503575073750317,
+          0.143216554928332,
+          -0.10165094151278167,
+          -0.13914471129145736,
+          0.03275428944863661,
+          -0.058214936246473704,
+          -0.027826339873031652,
+          -0.04713157072670646,
+          -0.07232026773238091,
+          0.07027946943696044,
+          0.0666484550592701,
+          0.12253337785370677,
+          0.01993843533261792,
+          0.0953324558055438,
+          0.10399373391719693,
+          -0.05021269076826831,
+          -0.1447496058668242,
+          -0.035396147147041784,
+          -0.05168330469597404,
+          -0.1808314458515357,
+          -0.012006220483738998,
+          -0.025700008197951898,
+          0.18722574926029387,
+          -0.030185332618262735,
+          0.01740102050856734,
+          0.026761659705006283,
+          -0.012330096834659106,
+          -0.09462888255226909,
+          -0.020177164374947577,
+          -0.12298891508933384,
+          0.08207289553523824,
+          -0.0996410129275129,
+          0.011198559807748948,
+          0.10787056373824926,
+          0.02758076539126778,
+          0.01513123281198805,
+          -0.03669817049538769,
+          -0.06408457839165016,
+          -0.15156929302945438,
+          0.04975910518845808,
+          0.017208803711074715,
+          0.07661143035577996,
+          -0.02174802897771226,
+          -0.10825434101241749,
+          -0.09177963546336633,
+          0.16049459183228415,
+          -0.040589398104748244,
+          0.006361044051818277,
+          0.09777961786393857,
+          -0.006832243791323946,
+          -0.12792257452291894,
+          0.08684999649401536,
+          -0.011206552810153246,
+          0.03555648113064689,
+          -0.0008107838578089202,
+          0.0030677593200212814,
+          -0.12629559648721933,
+          -0.10435785218628447,
+          0.15181318876770863,
+          -0.024867371386367708,
+          -0.11159456799234545,
+          0.04578776650103599,
+          -0.015189429697415133,
+          0.06123953681483855,
+          -0.026511991538633276,
+          0.06831710214481229,
+          -0.0662042416874756,
+          -0.03912182348824987,
+          -0.0534128138885978,
+          0.03696507606934414,
+          -0.0015129632613971723,
+          0.06576286394111763,
+          0.1362049797942575,
+          0.00572548054551667,
+          -0.07762972075668664,
+          0.03475159617251376,
+          -0.034560924990576,
+          0.09804466097780781,
+          -0.04437750213778594,
+          -0.05944510111867418,
+          0.04259937994119891,
+          -0.04021643747690497,
+          -0.007253649681907512,
+          -0.03415382503001187,
+          0.07391299460787769,
+          -0.056725510007479614,
+          0.02028544000311996,
+          0.0804250124168013,
+          -0.007542916758426431,
+          -0.019767751981809106,
+          -0.046859920472442085,
+          0.027488324002035578,
+          0.052558639636491156,
+          -0.023284296287591676,
+          0.18386068592912425,
+          0.1910521395618434,
+          -0.024085767844964526,
+          0.02803461988954665,
+          0.06605964475940368,
+          -0.07476471264921884,
+          -0.02043775302745025,
+          0.03635328522192556,
+          -0.06937832098601368,
+          0.042513472471986745,
+          0.01041012280842748,
+          -0.0037888801690140073,
+          0.06773991125283807,
+          0.03222224091484487,
+          0.05435288362840069,
+          -0.015145525429212008,
+          0.028711938978861422,
+          -0.02688387516132249,
+          0.04284901349430367,
+          -0.09685331222337921,
+          0.004580443012713447,
+          0.0232821449398426,
+          -0.028088748384676003,
+          -0.04688431350759432,
+          0.03839714146646708,
+          0.04894103523768468,
+          -0.034581091213164356,
+          -0.007606180493812008,
+          -0.07395113576691888,
+          0.1393995315096799,
+          -0.07926157526936947,
+          0.06936038199410863,
+          -0.11113713900848105,
+          -0.0642874853639107,
+          0.012384938895626021,
+          -0.003660013640077568,
+          -0.04914975990156861,
+          -0.017784639360469392,
+          -0.03019685351146839,
+          0.08900878742702678,
+          0.07737408845794003,
+          -0.03558882057341928,
+          0.011191748981582985,
+          -0.11621473372420273,
+          0.08183062928315037,
+          0.035921632472663445,
+          -0.06329969590872105,
+          0.10506837871263675,
+          -0.030704584893042116,
+          0.04589260077157759,
+          0.10414967734085377,
+          -0.05657291475188523,
+          0.0707983702539392,
+          0.04476457166627561,
+          -0.06620925528625214,
+          -0.0809590898206237
+        ],
+        "n": 60,
+        "dim": 192,
+        "kind": "sv",
+        "model": "eres2net/feat_cli",
+        "at": "2026-10-12 00:02"
+      },
+      "seedvc": {
+        "dataset": "data_artanis",
+        "run": "artanis",
+        "segs": 191,
+        "secs": 966.0,
+        "ckpt": "runs\\artanis\\DiT_epoch_00003_step_00600.pth",
+        "step": 600,
+        "steps": 1000,
+        "at": "2026-10-18 19:34"
+      }
+    },
+    {
+      "id": "r040361d2",
+      "name": "阿拉斯托",
+      "intro": "原名 Alastor · 来自声音市场（Loren85/Alastor-Hazbin-hotel-ita）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#2fb8a8",
+      "source": "modelhub:Loren85/Alastor-Hazbin-hotel-ita",
+      "created": "2026-10-13 00:26",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "r040361d2.pth",
+        "epochs": 0,
+        "at": "2026-10-13 00:26",
+        "index": true,
+        "imported": true,
+        "repo": "Loren85/Alastor-Hazbin-hotel-ita",
+        "file": "Alastor Hazbin hotel ita.zip"
+      },
+      "outputs": [
+        {
+          "text": "林俊杰 - 曹操.mp3",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\mix_preview_latest.wav",
+          "at": "2026-10-13 00:29",
+          "kind": "preview",
+          "track": "成品（人声+伴奏）",
+          "seconds": 20.0,
+          "stems": {
+            "mix": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\mix_preview_latest.wav",
+            "voice": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\voiceg_preview_latest.wav",
+            "inst": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\_pv_inst_latest.wav",
+            "src": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\_pv_voice_latest.wav"
+          },
+          "qc": {
+            "src_med": 327.11,
+            "dst_med": 327.72,
+            "shift_semitones": 0.03,
+            "match_ratio": 0.8552,
+            "match_ratio_loose": 0.9263,
+            "octave_err_ratio": 0.0016,
+            "contour_corr": 0.9098,
+            "contour_corr_best": 0.9098,
+            "contour_lag_ms": 0.0,
+            "dev_iqr_cents": 12.5,
+            "src_iqr_cents": 216.9,
+            "dst_iqr_cents": 208.5,
+            "spread_ratio": 0.9614,
+            "lag_ms": 0.0,
+            "aligned_frames": 1872,
+            "voiced_lag_ms": 0.0,
+            "voiced_lag_corr": 0.3883,
+            "hop_ms": 9.995,
+            "frames": 1999,
+            "voiced_src": 1901,
+            "voiced_dst": 1940,
+            "dst_peak": 0.7976,
+            "clip_ratio": 0.0,
+            "dst_rms": 0.1803,
+            "consonant_sim": null,
+            "consonant_frames": 0,
+            "hf_ratio_src": 0.0,
+            "hf_ratio_dst": 0.0,
+            "skipped_secs": 0.0,
+            "skipped_spec": ""
+          },
+          "nonvocal": {
+            "mode": "keep",
+            "protected_secs": 0.0,
+            "segments": []
+          }
+        },
+        {
+          "text": "林俊杰 - 曹操.mp3",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\voiceg_preview_latest.wav",
+          "at": "2026-10-13 00:29",
+          "kind": "preview",
+          "track": "人声（干声）",
+          "seconds": 19.98,
+          "stems": {
+            "mix": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\mix_preview_latest.wav",
+            "voice": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\voiceg_preview_latest.wav",
+            "inst": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\_pv_inst_latest.wav",
+            "src": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\_pv_voice_latest.wav"
+          },
+          "qc": {
+            "src_med": 327.11,
+            "dst_med": 327.72,
+            "shift_semitones": 0.03,
+            "match_ratio": 0.8552,
+            "match_ratio_loose": 0.9263,
+            "octave_err_ratio": 0.0016,
+            "contour_corr": 0.9098,
+            "contour_corr_best": 0.9098,
+            "contour_lag_ms": 0.0,
+            "dev_iqr_cents": 12.5,
+            "src_iqr_cents": 216.9,
+            "dst_iqr_cents": 208.5,
+            "spread_ratio": 0.9614,
+            "lag_ms": 0.0,
+            "aligned_frames": 1872,
+            "voiced_lag_ms": 0.0,
+            "voiced_lag_corr": 0.3883,
+            "hop_ms": 9.995,
+            "frames": 1999,
+            "voiced_src": 1901,
+            "voiced_dst": 1940,
+            "dst_peak": 0.7976,
+            "clip_ratio": 0.0,
+            "dst_rms": 0.1803,
+            "consonant_sim": null,
+            "consonant_frames": 0,
+            "hf_ratio_src": 0.0,
+            "hf_ratio_dst": 0.0,
+            "skipped_secs": 0.0,
+            "skipped_spec": ""
+          },
+          "nonvocal": {
+            "mode": "keep",
+            "protected_secs": 0.0,
+            "segments": []
+          }
+        },
+        {
+          "text": "Three Days Grace - Pain.mp3",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\mix_sing_1014_130409.wav",
+          "at": "2026-10-14 13:13",
+          "kind": "singing",
+          "track": "成品（人声+伴奏）",
+          "seconds": 202.97,
+          "lyric": "",
+          "lyric_lrc": "",
+          "stems": {
+            "mix": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\mix_sing_1014_130409.wav",
+            "voice": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\voiceg_sing_1014_130409.wav",
+            "inst": "D:\\AHC\\VoiceStudio\\data\\cache\\sep\\18a93a7e6ae28125\\inst.wav",
+            "src": "D:\\AHC\\VoiceStudio\\data\\uploads\\Three Days Grace - Pain.mp3"
+          },
+          "qc": {
+            "src_med": 240.68,
+            "dst_med": 241.51,
+            "shift_semitones": 0.02,
+            "match_ratio": 0.8626,
+            "match_ratio_loose": 0.9375,
+            "octave_err_ratio": 0.0448,
+            "contour_corr": 0.7859,
+            "contour_corr_best": 0.8006,
+            "contour_lag_ms": -20.0,
+            "dev_iqr_cents": 22.7,
+            "src_iqr_cents": 229.8,
+            "dst_iqr_cents": 226.9,
+            "spread_ratio": 0.9872,
+            "lag_ms": -10.0,
+            "aligned_frames": 2096,
+            "voiced_lag_ms": -10.0,
+            "voiced_lag_corr": 0.85,
+            "hop_ms": 9.997,
+            "frames": 3001,
+            "voiced_src": 2142,
+            "voiced_dst": 2301,
+            "dst_peak": 0.8932,
+            "clip_ratio": 0.0,
+            "dst_rms": 0.109,
+            "consonant_sim": 0.9733,
+            "consonant_frames": 19,
+            "hf_ratio_src": 0.1603,
+            "hf_ratio_dst": 0.1568,
+            "skipped_secs": 0.0,
+            "skipped_spec": ""
+          },
+          "nonvocal": {
+            "mode": "keep",
+            "protected_secs": 1.12,
+            "segments": [
+              [
+                26.68,
+                26.87
+              ],
+              [
+                150.46,
+                150.78
+              ],
+              [
+                156.02,
+                156.3
+              ],
+              [
+                176.74,
+                176.89
+              ],
+              [
+                181.24,
+                181.42
+              ]
+            ]
+          }
+        },
+        {
+          "text": "Three Days Grace - Pain.mp3",
+          "wav": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\voiceg_sing_1014_130409.wav",
+          "at": "2026-10-14 13:13",
+          "kind": "singing",
+          "track": "人声（干声）",
+          "seconds": 202.92,
+          "lyric": "",
+          "lyric_lrc": "",
+          "stems": {
+            "mix": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\mix_sing_1014_130409.wav",
+            "voice": "D:\\AHC\\VoiceStudio\\data\\roles\\r040361d2\\final\\voiceg_sing_1014_130409.wav",
+            "inst": "D:\\AHC\\VoiceStudio\\data\\cache\\sep\\18a93a7e6ae28125\\inst.wav",
+            "src": "D:\\AHC\\VoiceStudio\\data\\uploads\\Three Days Grace - Pain.mp3"
+          },
+          "qc": {
+            "src_med": 240.68,
+            "dst_med": 241.51,
+            "shift_semitones": 0.02,
+            "match_ratio": 0.8626,
+            "match_ratio_loose": 0.9375,
+            "octave_err_ratio": 0.0448,
+            "contour_corr": 0.7859,
+            "contour_corr_best": 0.8006,
+            "contour_lag_ms": -20.0,
+            "dev_iqr_cents": 22.7,
+            "src_iqr_cents": 229.8,
+            "dst_iqr_cents": 226.9,
+            "spread_ratio": 0.9872,
+            "lag_ms": -10.0,
+            "aligned_frames": 2096,
+            "voiced_lag_ms": -10.0,
+            "voiced_lag_corr": 0.85,
+            "hop_ms": 9.997,
+            "frames": 3001,
+            "voiced_src": 2142,
+            "voiced_dst": 2301,
+            "dst_peak": 0.8932,
+            "clip_ratio": 0.0,
+            "dst_rms": 0.109,
+            "consonant_sim": 0.9733,
+            "consonant_frames": 19,
+            "hf_ratio_src": 0.1603,
+            "hf_ratio_dst": 0.1568,
+            "skipped_secs": 0.0,
+            "skipped_spec": ""
+          },
+          "nonvocal": {
+            "mode": "keep",
+            "protected_secs": 1.12,
+            "segments": [
+              [
+                26.68,
+                26.87
+              ],
+              [
+                150.46,
+                150.78
+              ],
+              [
+                156.02,
+                156.3
+              ],
+              [
+                176.74,
+                176.89
+              ],
+              [
+                181.24,
+                181.42
+              ]
+            ]
+          }
+        }
+      ],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "updated": "2026-10-13 00:28",
+      "alias": "Alastor"
+    },
+    {
+      "id": "rd3f9cb99",
+      "name": "阿达吉奥·达佐 (V2)",
+      "intro": "原名 AdagioDazzleV2 · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#c86dd7",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:20",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "rd3f9cb99.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:20",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "AdagioDazzleV2.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "AdagioDazzleV2",
+      "name_auto": true
+    },
+    {
+      "id": "r6f4c55a6",
+      "name": "阿达吉奥·达佐",
+      "intro": "原名 AdagioDazzle · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#e0b53c",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:21",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "r6f4c55a6.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:21",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "AdagioDazzleV3.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "AdagioDazzle",
+      "name_auto": true
+    },
+    {
+      "id": "r206b05d2",
+      "name": "阿达吉奥·达佐 (AddagioDazzle)",
+      "intro": "原名 AddagioDazzle · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#4fc75a",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:21",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "r206b05d2.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:21",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "AddagioDazzle.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "AddagioDazzle"
+    },
+    {
+      "id": "r62198a6a",
+      "name": "苹果丽丽",
+      "intro": "原名 AppleBloom · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#ff6f91",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:21",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "r62198a6a.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:21",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "AppleBloom V2.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "AppleBloom"
+    },
+    {
+      "id": "rc6e14feb",
+      "name": "苹果嘉儿",
+      "intro": "原名 Applejack · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#5ec8f2",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:21",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "rc6e14feb.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:21",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "Applejack V2.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "Applejack"
+    },
+    {
+      "id": "r7c6a8cef",
+      "name": "苹果嘉儿 (Talking Singing e320)",
+      "intro": "原名 Applejack · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#6c8cff",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:21",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "r7c6a8cef.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:22",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "Applejack_Talking_Singing_e320_s8000.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "Applejack",
+      "name_auto": true
+    },
+    {
+      "id": "r92f16131",
+      "name": "阿里亚·布雷兹",
+      "intro": "原名 AriaBlaze · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#ff7a59",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:22",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "r92f16131.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:22",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "AriaBlaze.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "AriaBlaze"
+    },
+    {
+      "id": "r74e2c840",
+      "name": "阿里亚·布雷兹 (V2)",
+      "intro": "原名 AriaBlazeV2 · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#2fb8a8",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:22",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "r74e2c840.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:22",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "AriaBlazeV2.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "AriaBlazeV2"
+    },
+    {
+      "id": "rf92a5a5f",
+      "name": "阿里亚·布雷兹 (V3)",
+      "intro": "原名 AriaBlaze · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#c86dd7",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:22",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "rf92a5a5f.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:22",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "AriaBlazeV3.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "AriaBlaze",
+      "name_auto": true
+    },
+    {
+      "id": "r7f838a62",
+      "name": "巴布塞德",
+      "intro": "原名 BabsSeed · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#e0b53c",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:22",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "r7f838a62.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:22",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "BabsSeed.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "BabsSeed"
+    },
+    {
+      "id": "r30455e72",
+      "name": "布托恩·玛什",
+      "intro": "原名 Button Mash · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#4fc75a",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:23",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "r30455e72.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:23",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "Button Mash.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "Button Mash"
+    },
+    {
+      "id": "r26125f96",
+      "name": "和煦光流",
+      "intro": "原名 CozyGlow · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#ff6f91",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:23",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "r26125f96.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:23",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "CozyGlow V2.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "CozyGlow"
+    },
+    {
+      "id": "r0da6a754",
+      "name": "和煦光流 (V3)",
+      "intro": "原名 CozyGlow · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#5ec8f2",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:23",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "r0da6a754.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:23",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "CozyGlowV3.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "CozyGlow",
+      "name_auto": true
+    },
+    {
+      "id": "rd0761f94",
+      "name": "代布雷凯尔",
+      "intro": "原名 Daybreaker · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#6c8cff",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:23",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "rd0761f94.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:23",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "Daybreaker.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "Daybreaker"
+    },
+    {
+      "id": "r80a38140",
+      "name": "风雪之心",
+      "intro": "原名 FlurryHeart · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#ff7a59",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:23",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "r80a38140.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:23",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "FlurryHeart.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "FlurryHeart"
+    },
+    {
+      "id": "r85455091",
+      "name": "柔柔",
+      "intro": "原名 Fluttershy · 来自声音市场（MusicBox27/MyLittlePonyRVC）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#2fb8a8",
+      "source": "modelhub:MusicBox27/MyLittlePonyRVC",
+      "created": "2026-10-13 10:24",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "r85455091.pth",
+        "epochs": 0,
+        "at": "2026-10-13 10:24",
+        "index": true,
+        "imported": true,
+        "repo": "MusicBox27/MyLittlePonyRVC",
+        "file": "Fluttershy V2.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "Fluttershy"
+    },
+    {
+      "id": "r6474ab6a",
+      "name": "阿拉斯托 (Hazbin hotel ita)",
+      "intro": "原名 Alastor · 来自声音市场（Loren85/Alastor-Hazbin-hotel-ita）",
+      "kind": "singing",
+      "kind_locked": true,
+      "color": "#c86dd7",
+      "source": "modelhub:Loren85/Alastor-Hazbin-hotel-ita",
+      "created": "2026-10-14 13:02",
+      "segments": [],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "r6474ab6a.pth",
+        "epochs": 0,
+        "at": "2026-10-14 13:02",
+        "index": true,
+        "imported": true,
+        "repo": "Loren85/Alastor-Hazbin-hotel-ita",
+        "file": "Alastor Hazbin hotel ita.zip"
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      },
+      "alias": "Alastor",
+      "name_auto": true
+    },
+    {
+      "id": "r42f0802d",
+      "name": "_storeprobe(探针)",
+      "intro": "",
+      "kind": "speech",
+      "kind_locked": false,
+      "color": "#e0b53c",
+      "source": "",
+      "created": "2026-10-14 18:19",
+      "segments": [],
+      "ref": null,
+      "model": {
+        "ckpt": "GPT_weights_v5turbo/_storeprobe-e5.ckpt",
+        "epochs": 5,
+        "at": "2026-10-14 18:19"
+      },
+      "rvc": {
+        "model": "_storeprobe.pth",
+        "epochs": 90,
+        "at": "2026-10-14 18:19",
+        "weight_epoch": 90,
+        "pretrained": true,
+        "index": false
+      },
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      }
+    },
+    {
+      "id": "rd000f96d",
+      "name": "角色 B",
+      "intro": "来自《srcA》《srcB》的一个声音 · 8 段素材 · 39 秒",
+      "kind": "singing",
+      "kind_locked": false,
+      "color": "#ff6f91",
+      "source": "srcA.wav、srcB.wav",
+      "created": "2026-10-14 22:19",
+      "segments": [
+        {
+          "file": "v1_vocal.wav_0000000000_0000129920.wav",
+          "dur": 4.06,
+          "voiced": 0.4693,
+          "text": "进执行官团结一致，永不言败。"
+        },
+        {
+          "file": "v1_vocal.wav_0000133120_0000306240.wav",
+          "dur": 5.41,
+          "voiced": 0.7491,
+          "text": "达拉姆万岁，新的黎明即将到来。"
+        },
+        {
+          "file": "v1_vocal.wav_0000315840_0000483520.wav",
+          "dur": 5.24,
+          "voiced": 0.5181,
+          "text": "汤姆万岁，新的黎明即将到来。"
+        },
+        {
+          "file": "v1_vocal.wav_0000487680_0000657920.wav",
+          "dur": 5.32,
+          "voiced": 0.8161,
+          "text": "为埃尔而战，团结一心，所向披靡。"
+        },
+        {
+          "file": "v1_vocal.wav_0000671360_0000838720.wav",
+          "dur": 5.23,
+          "voiced": 0.584,
+          "text": "为爱而战，团结一心，所向披靡。"
+        },
+        {
+          "file": "v1_vocal.wav_0000842880_0001019840.wav",
+          "dur": 5.53,
+          "voiced": 0.7617,
+          "text": "看来我必须独自度过这个难关，为何要拖延？"
+        },
+        {
+          "file": "v1_vocal.wav_0001030080_0001144640.wav",
+          "dur": 3.58,
+          "voiced": 0.2535,
+          "text": "看来我必须独自度过这个难关。"
+        },
+        {
+          "file": "v1_vocal.wav_0001144640_0001280320.wav",
+          "dur": 4.23,
+          "voiced": 0.691,
+          "text": "为何要拖延让我们去和敌人战斗吧？"
+        }
+      ],
+      "ref": null,
+      "model": null,
+      "rvc": null,
+      "outputs": [],
+      "voice": {
+        "center": [
+          -0.12386899552501202,
+          0.1425722517898012,
+          -0.09469653762904001,
+          -0.013980525934757662,
+          -0.11490180095786301,
+          -0.09517595953453958,
+          -0.055993603907683945,
+          0.03702044823865528,
+          0.006852801375531285,
+          0.05379875013895337,
+          -0.013041216500821738,
+          0.06589509557300219,
+          0.037549592972707775,
+          0.017276731773168533,
+          0.05002758543373926,
+          0.0031615479503597516,
+          0.005871596596294502,
+          0.038295572725269046,
+          -0.007247448433178175,
+          0.03543185822391232,
+          0.08489562454603512,
+          -0.031902647434485135,
+          -0.00733335620623841,
+          0.05948818609430304,
+          0.07943081676137936,
+          0.05271946150159759,
+          -0.05643617713471624,
+          -0.03273185713688883,
+          -0.038106820519480396,
+          -0.0870547167867501,
+          -0.10361455866470637,
+          0.05149549030465737,
+          -0.0759351474243086,
+          0.03992549734455358,
+          0.04461250047763641,
+          -0.11988160231680427,
+          -0.11356743249347745,
+          -0.010620052339119366,
+          0.06510330673351404,
+          -0.012034583844704728,
+          0.10265347189067005,
+          0.03851676778927347,
+          0.13406100812208457,
+          0.04771034141152802,
+          -0.10659618893715844,
+          -0.06919938065582233,
+          -0.024288783524336718,
+          -0.05984132689207389,
+          0.00021902076310107926,
+          -0.06698301275183756,
+          -0.03194007974108964,
+          0.03544623149725235,
+          0.0680329597706871,
+          0.06727850024460275,
+          0.032074737629140766,
+          0.14758783756413596,
+          0.06225300423562427,
+          0.08605118537034259,
+          -0.10890277888494329,
+          -0.010488449916021901,
+          -0.03870066787094098,
+          -0.17611657651213794,
+          -0.06531730371715948,
+          0.03738530737392628,
+          0.20578076972293582,
+          -0.030010616563146304,
+          0.03558719485792318,
+          0.07489579726144066,
+          -0.05480090831268507,
+          -0.07004565289847284,
+          0.05872042900164139,
+          -0.15140537209703625,
+          0.06538997114208722,
+          -0.09089684380723616,
+          0.05568741656573649,
+          0.11287456290140274,
+          0.07186559997302115,
+          -0.02731845440306384,
+          -0.023324893046503977,
+          -0.06398184810232226,
+          -0.15072590306473957,
+          0.08965471147590846,
+          0.01982270080672316,
+          0.10162977669430626,
+          -0.03894178639743347,
+          -0.09848723671131734,
+          -0.024084822655913572,
+          0.16676494265789885,
+          -0.04311456736687415,
+          0.06727188579238098,
+          0.05691334463348973,
+          -0.029752481271162867,
+          -0.1304357161201073,
+          0.013102131257182414,
+          -0.004555126061450202,
+          0.0011371135976959035,
+          -0.052316883967497965,
+          0.06939525083614724,
+          0.023779024399390922,
+          -0.20555725159007154,
+          0.10416439358840761,
+          -0.03750936840599582,
+          -0.02106577152054597,
+          0.0685213306409573,
+          0.018031637603122496,
+          0.1124789545738828,
+          0.042123177704458524,
+          0.06988025726186173,
+          -0.07019986805096513,
+          0.0239697334759926,
+          -0.013049043984073791,
+          0.067377808577441,
+          0.08822815265322087,
+          0.024749231793532337,
+          0.10538027409724958,
+          0.04668443758319397,
+          -0.09901919659285524,
+          -0.028694157471990972,
+          0.027637447232963134,
+          0.08774314622750638,
+          0.03616608530790652,
+          -0.05470172586042543,
+          0.010969851579712434,
+          -0.00092658405180685,
+          -0.038291658983643014,
+          -0.023039384450516266,
+          0.02339474532394632,
+          0.006983568409334307,
+          0.07700353022608072,
+          0.08628194735832177,
+          -0.03722550770121906,
+          -0.002841868499122553,
+          0.007994927308993855,
+          0.0322300857068406,
+          -0.11166760846995347,
+          -0.016555905248952334,
+          0.2008635653426331,
+          0.149939149448396,
+          -0.04495698984654972,
+          -0.0031872504757751324,
+          0.07156329204163282,
+          -0.1472123357981275,
+          -0.018071873613523425,
+          0.11998997405130275,
+          -0.0494090082704253,
+          0.10298426316389228,
+          -0.016916312789215952,
+          0.09655611419847408,
+          0.0544558810903904,
+          -0.06734679618034586,
+          0.04178847268961029,
+          0.001377659939740141,
+          -0.011140831736538456,
+          -0.04525957242647321,
+          -0.021097070009865233,
+          -0.07790203146516748,
+          0.019956328762767428,
+          0.008254206969873796,
+          -0.025714758718887076,
+          -0.08874103590525415,
+          0.019751532505049844,
+          0.061147738424317956,
+          -0.020063350141968084,
+          0.018729828510565934,
+          -0.056234447785641274,
+          0.11794376235853854,
+          -0.08390549368940564,
+          0.020718226686679008,
+          -0.07230087212649379,
+          -0.04166327873233322,
+          0.0027938622239143916,
+          0.04675512524993075,
+          -0.061756256585031685,
+          0.016938673757453553,
+          0.017936654984713023,
+          0.12951484246909398,
+          -0.03558719485792318,
+          0.02606805972830344,
+          0.08042543354408313,
+          -0.0756906644532604,
+          0.011709663183921568,
+          0.08552816300988637,
+          -0.04979792203990072,
+          0.05519958354884762,
+          -0.036727089272037584,
+          0.06630856749899648,
+          0.07580383109343526,
+          -0.037421641086390144,
+          0.03174058191136284,
+          0.037508269811855184,
+          -0.0750254542574141,
+          -0.05013905840794729
+        ],
+        "n": 7,
+        "dim": 192,
+        "kind": "sv",
+        "model": "eres2net/feat_cli",
+        "at": "2026-10-14 22:19"
+      },
+      "stats": {
+        "segments": 8,
+        "seconds": 38.6
+      },
+      "kind_guess": {
+        "kind": "singing",
+        "conf": 0.67,
+        "why": "有声帧占比中位 0.64（歌声在这批样本上 < 0.72）"
+      },
+      "split_info": {
+        "segments": 8,
+        "seconds": 38.6
+      },
+      "_added": 8
+    },
+    {
+      "id": "r2a187b92",
+      "name": "角色 A",
+      "intro": "来自《srcA》《srcB》的一个声音 · 25 段素材 · 1 分 55 秒",
+      "kind": "singing",
+      "kind_locked": false,
+      "color": "#5ec8f2",
+      "source": "srcC.wav",
+      "created": "2026-10-14 22:20",
+      "segments": [
+        {
+          "file": "v0_vocal.wav_0000000000_0000158080.wav",
+          "dur": 4.94,
+          "voiced": 0.6444,
+          "text": "门禁手工校对过的文本"
+        },
+        {
+          "file": "v0_vocal.wav_0000176000_0000335040.wav",
+          "dur": 4.97,
+          "voiced": 0.496,
+          "text": "三堂武婿准备就训同意人意的朋友。"
+        },
+        {
+          "file": "v0_vocal.wav_0000336320_0000480320.wav",
+          "dur": 4.5,
+          "voiced": 0.7583,
+          "text": "为了达拉姆没错roris want."
+        },
+        {
+          "file": "v0_vocal.wav_0000491520_0000629760.wav",
+          "dur": 4.32,
+          "voiced": 0.4734,
+          "text": "为了达拉努没错，罗瑞错。"
+        },
+        {
+          "file": "v0_vocal.wav_0000633920_0000777600.wav",
+          "dur": 4.49,
+          "voiced": 0.7089,
+          "text": "即使是在阴影中，也并非孤身一人作战。"
+        },
+        {
+          "file": "v0_vocal.wav_0000791680_0000928640.wav",
+          "dur": 4.28,
+          "voiced": 0.5664,
+          "text": "即使是在阴影中，你也并非孤身一人作战。"
+        },
+        {
+          "file": "v0_vocal.wav_0000932160_0001085120.wav",
+          "dur": 4.78,
+          "voiced": 0.7495,
+          "text": "别让它变成了不利因素，为了爱尔之光。"
+        },
+        {
+          "file": "v0_vocal.wav_0001096320_0001242560.wav",
+          "dur": 4.57,
+          "voiced": 0.6769,
+          "text": "别让他变成了不利因素，为了爱尔之光。"
+        },
+        {
+          "file": "v0_vocal.wav_0001247040_0001279680.wav",
+          "dur": 1.015,
+          "voiced": 0.6078,
+          "text": "说的。"
+        },
+        {
+          "file": "v1_vocal.wav_0000000000_0000129920.wav",
+          "dur": 4.06,
+          "voiced": 0.4693,
+          "text": "进执行官团结一致，永不言败。"
+        },
+        {
+          "file": "v1_vocal.wav_0000133120_0000306240.wav",
+          "dur": 5.41,
+          "voiced": 0.7491,
+          "text": "达拉姆万岁，新的黎明即将到来。"
+        },
+        {
+          "file": "v1_vocal.wav_0000315840_0000483520.wav",
+          "dur": 5.24,
+          "voiced": 0.5181,
+          "text": "汤姆万岁，新的黎明即将到来。"
+        },
+        {
+          "file": "v1_vocal.wav_0000487680_0000657920.wav",
+          "dur": 5.32,
+          "voiced": 0.8161,
+          "text": "为埃尔而战，团结一心，所向披靡。"
+        },
+        {
+          "file": "v1_vocal.wav_0000671360_0000838720.wav",
+          "dur": 5.23,
+          "voiced": 0.584,
+          "text": "为爱而战，团结一心，所向披靡。"
+        },
+        {
+          "file": "v1_vocal.wav_0000842880_0001019840.wav",
+          "dur": 5.53,
+          "voiced": 0.7617,
+          "text": "看来我必须独自度过这个难关，为何要拖延？"
+        },
+        {
+          "file": "v1_vocal.wav_0001030080_0001144640.wav",
+          "dur": 3.58,
+          "voiced": 0.2535,
+          "text": "看来我必须独自度过这个难关。"
+        },
+        {
+          "file": "v1_vocal.wav_0001144640_0001280320.wav",
+          "dur": 4.23,
+          "voiced": 0.691,
+          "text": "为何要拖延让我们去和敌人战斗吧？"
+        },
+        {
+          "file": "v0_vocal.wav_0000000000_0000136320.wav",
+          "dur": 4.26,
+          "voiced": 0.7237,
+          "text": "我的资源不足，我需要额外的资源。"
+        },
+        {
+          "file": "v0_vocal.wav_0000147200_0000286080.wav",
+          "dur": 4.34,
+          "voiced": 0.4782,
+          "text": "我的资源不足，我需要额外的资源。"
+        },
+        {
+          "file": "v0_vocal.wav_0000288960_0000463360.wav",
+          "dur": 5.45,
+          "voiced": 0.7582,
+          "text": "我的资源储量不够，资源已接收，谢谢。"
+        },
+        {
+          "file": "v0_vocal.wav_0000476800_0000608640.wav",
+          "dur": 4.12,
+          "voiced": 0.5932,
+          "text": "哦，我的资源储量不够，资源已接收。"
+        },
+        {
+          "file": "v0_vocal.wav_0000608640_0000761280.wav",
+          "dur": 4.77,
+          "voiced": 0.5523,
+          "text": "谢谢这些资源会派上大用场的。"
+        },
+        {
+          "file": "v0_vocal.wav_0000761280_0000928640.wav",
+          "dur": 5.23,
+          "voiced": 0.542,
+          "text": "谢谢你朋友，这些资源会排上大有。"
+        },
+        {
+          "file": "v0_vocal.wav_0000928640_0001107520.wav",
+          "dur": 5.59,
+          "voiced": 0.4839,
+          "text": "抢的谢谢你朋友正在输送晶体矿。"
+        },
+        {
+          "file": "v0_vocal.wav_0001107520_0001275200.wav",
+          "dur": 5.24,
+          "voiced": 0.6267,
+          "text": "晶体矿输送开始正在输送。晶体矿。"
+        }
+      ],
+      "ref": null,
+      "model": null,
+      "rvc": null,
+      "outputs": [],
+      "voice": {
+        "center": [
+          -0.13540454272171235,
+          0.14614183991658766,
+          -0.10437934318190051,
+          -0.023602016090413416,
+          -0.11642980968079991,
+          -0.07888910200151479,
+          -0.06575550619665646,
+          0.020494709516298136,
+          0.014854122963488838,
+          0.052800282196026435,
+          -0.023214548845851512,
+          0.05373940970992125,
+          0.06728055435319502,
+          0.0277815128423106,
+          0.04865378673899491,
+          0.0058985207972153016,
+          0.03542229051154775,
+          0.04483656858928119,
+          0.008883590660029875,
+          0.037478362075824424,
+          0.08052155733025092,
+          -0.042494728658790275,
+          -0.011985878604050372,
+          0.07042691357953479,
+          0.08757016140546475,
+          0.04318273014739989,
+          -0.035337667000428834,
+          -0.03154851993391612,
+          -0.033039799323615414,
+          -0.074390633994517,
+          -0.08701150900667634,
+          0.0546434563274735,
+          -0.11376827700081846,
+          0.04000642183040294,
+          0.04566284942915621,
+          -0.11887304786697601,
+          -0.10687353514099797,
+          0.0015941241709015693,
+          0.04935181487758247,
+          -0.011371179530764467,
+          0.11581709118034918,
+          0.03678321284132223,
+          0.13158458360066427,
+          0.07307507385614181,
+          -0.11932344427663755,
+          -0.08338988657138231,
+          -0.0228033607048515,
+          -0.05724195020350197,
+          -0.00825900994299146,
+          -0.05327641190559609,
+          -0.022133113637014094,
+          0.041749421417237954,
+          0.08136826990096284,
+          0.09116834588329714,
+          0.03714419346095122,
+          0.14477412351464117,
+          0.04750210485577944,
+          0.06923215777389204,
+          -0.12680307405183774,
+          -0.019318464993189618,
+          -0.00043967302245408884,
+          -0.17641135189114865,
+          -0.07021977041813873,
+          0.03512819312921425,
+          0.20156086380914473,
+          -0.04311986818030717,
+          0.0324942929770203,
+          0.07999726433341511,
+          -0.06028884576940803,
+          -0.06236746403337054,
+          0.05465575709947465,
+          -0.1510131542965393,
+          0.05383919167670346,
+          -0.1054541717656378,
+          0.06262270328402585,
+          0.11486002887208464,
+          0.06179809532084908,
+          -0.015986172418475914,
+          -0.018969381957520327,
+          -0.0706946799533724,
+          -0.13448167005201458,
+          0.09259361207305347,
+          0.009936388907713369,
+          0.10043504299091435,
+          -0.05420214579569321,
+          -0.09796762059572621,
+          -0.01534698497677828,
+          0.15263921874114486,
+          -0.05768045963941543,
+          0.0680082698638866,
+          0.05949039905134126,
+          -0.021645585023430735,
+          -0.10818341527942092,
+          0.009812465172765582,
+          0.011523846328982339,
+          -0.004614151144256507,
+          -0.05751938248012259,
+          0.05690283015654094,
+          -0.002075375075944953,
+          -0.18662643569066503,
+          0.10401461362083352,
+          -0.039766273837404005,
+          -0.04113376035143212,
+          0.05569186902102204,
+          0.01923135515581515,
+          0.08882736537994715,
+          0.03288457900113508,
+          0.0748235836795432,
+          -0.0598894066694051,
+          0.007326821507494082,
+          0.003776436032995704,
+          0.0776399370307008,
+          0.0683355347677344,
+          0.027605213566084766,
+          0.10148916751504997,
+          0.027487341188495794,
+          -0.09274707463714259,
+          -0.049218670868739635,
+          0.02778995857075763,
+          0.09329871722278946,
+          0.011682062267875834,
+          -0.07091606201875833,
+          -0.0015134759524017723,
+          -0.02619641796149499,
+          -0.04235139531005802,
+          -0.03296522721963488,
+          0.03257528425902903,
+          -0.0003065254768740435,
+          0.09380159881258243,
+          0.0868457173766884,
+          -0.026113308173900084,
+          0.006967110576521896,
+          0.01153894819685034,
+          0.04819702420236326,
+          -0.08975747775070483,
+          -0.023515114920534083,
+          0.19674482863171694,
+          0.17204015337249515,
+          -0.04344474224980398,
+          0.01344497722191571,
+          0.06716640969662079,
+          -0.14299195809999107,
+          -0.003310170283492541,
+          0.13174380397292418,
+          -0.03073109154726676,
+          0.11340217164897849,
+          -0.039794161010270335,
+          0.08040896883804716,
+          0.06329119259347207,
+          -0.031966548124671805,
+          0.058672273927462375,
+          -0.006682325423250812,
+          -0.027768221783891874,
+          -0.050295925654200005,
+          0.00021655441910022717,
+          -0.07522370536982681,
+          0.0250059699017687,
+          -0.0006532954864108584,
+          -0.016225464521071084,
+          -0.0928906272635816,
+          0.026178419505855588,
+          0.037599325561731095,
+          -0.03672698579322725,
+          0.028628663968436007,
+          -0.05641907524155598,
+          0.1060489377880328,
+          -0.09614813199334521,
+          0.034474476771075936,
+          -0.08908847561436381,
+          -0.02936871915523798,
+          -0.01405723594652973,
+          0.06293984250925398,
+          -0.08516991933349738,
+          -0.009389322860010573,
+          0.01608672539396895,
+          0.11998795121999023,
+          -0.019856498214069256,
+          0.03384427617861779,
+          0.05901982201918444,
+          -0.0845678181181379,
+          -0.008879488044871353,
+          0.06454130187312,
+          -0.046552986059278746,
+          0.058767083241733485,
+          -0.041113130563311714,
+          0.07152289892523614,
+          0.05675876823994433,
+          -0.06952711104662929,
+          0.03977969575509934,
+          0.04253858773687719,
+          -0.0750076708510958,
+          -0.04915417492905791
+        ],
+        "n": 23,
+        "dim": 192,
+        "kind": "sv",
+        "model": "eres2net/feat_cli",
+        "at": "2026-10-14 22:22"
+      },
+      "stats": {
+        "segments": 25,
+        "seconds": 115.5
+      },
+      "kind_guess": {
+        "kind": "singing",
+        "conf": 0.72,
+        "why": "有声帧占比中位 0.61（歌声在这批样本上 < 0.72）"
+      },
+      "split_info": {
+        "segments": 25,
+        "seconds": 115.5
+      },
+      "_added": 0
+    },
+    {
+      "id": "r1fba121f",
+      "name": "RVC真训验收（临时）",
+      "intro": "",
+      "kind": "singing",
+      "kind_locked": false,
+      "color": "#5ec8f2",
+      "source": "verify:rvc-true-train",
+      "created": "2026-10-14 22:43",
+      "segments": [
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000089280_0000258240.wav",
+          "dur": 5.28,
+          "voiced": 0.6352,
+          "text": "派伦人一群背叛了种族的叛徒。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000272640_0000483840.wav",
+          "dur": 6.6,
+          "voiced": 0.7806,
+          "text": "必须给这些泰伦人一个教训，如果你不再是帝国的一员。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000483840_0000695360.wav",
+          "dur": 6.61,
+          "voiced": 0.7432,
+          "text": "你就会被帝国人道毁灭，我知道这很难接受。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000702400_0000826560.wav",
+          "dur": 3.88,
+          "voiced": 0.7686,
+          "text": "但是便捷的泰伦人必须被清除。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000826560_0000940160.wav",
+          "dur": 3.55,
+          "voiced": 0.6742,
+          "text": "原来是一群泰伦叛徒。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0000967680_0001111360.wav",
+          "dur": 4.49,
+          "voiced": 0.8222,
+          "text": "如果这些泰伦人对我们拿起武器。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001115840_0001384960.wav",
+          "dur": 8.41,
+          "voiced": 0.7993,
+          "text": "那他们就不再是我们的同胞，不要对这些泰伦意见者浪费你的同情心。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001384960_0001537600.wav",
+          "dur": 4.77,
+          "voiced": 0.772,
+          "text": "施展雷霆手腕，方显仁慈贤诚。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001554880_0001699840.wav",
+          "dur": 4.53,
+          "voiced": 0.6586,
+          "text": "一重如此丑恶的存在。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001699840_0001838720.wav",
+          "dur": 4.34,
+          "voiced": 0.6782,
+          "text": "虫群是所有文明的敌人。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0001848320_0002038080.wav",
+          "dur": 5.93,
+          "voiced": 0.7172,
+          "text": "是心灵，他们会盗取思想，我们最好先下手为强。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002043520_0002175040.wav",
+          "dur": 4.11,
+          "voiced": 0.6383,
+          "text": "是心灵乔sara这笔账。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002175040_0002350400.wav",
+          "dur": 5.48,
+          "voiced": 0.7122,
+          "text": "就算在他们头上，我们会把它从地图上抹去。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002367360_0002521920.wav",
+          "dur": 4.83,
+          "voiced": 0.6839,
+          "text": "应该不会有太大的伤亡，马上出发。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002521920_0002663360.wav",
+          "dur": 4.42,
+          "voiced": 0.7765,
+          "text": "开始攻击，但愿你们不会错过这场好戏。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002666560_0002806080.wav",
+          "dur": 4.36,
+          "voiced": 0.8513,
+          "text": "我们的合作关系牢固与否就要看你了。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002806080_0002965440.wav",
+          "dur": 4.98,
+          "voiced": 0.7234,
+          "text": "战斗已经打响，多关注一下前线战士。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0002983040_0003168000.wav",
+          "dur": 5.78,
+          "voiced": 0.7358,
+          "text": "搞定下一个麻烦是什么？我们正在巩固优势。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003177280_0003402880.wav",
+          "dur": 7.05,
+          "voiced": 0.7068,
+          "text": "更近了一步，战场上的优势就是这样一点点积累起来的。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003402880_0003517760.wav",
+          "dur": 3.59,
+          "voiced": 0.6917,
+          "text": "我们取得了一个阶段性的胜利。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003523520_0003697280.wav",
+          "dur": 5.43,
+          "voiced": 0.671,
+          "text": "普天之下，莫非王土他们能往哪儿逃？"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003729920_0003864320.wav",
+          "dur": 4.2,
+          "voiced": 0.6651,
+          "text": "放跑他的人会付出惨痛的代价。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0003872320_0004038400.wav",
+          "dur": 5.19,
+          "voiced": 0.6346,
+          "text": "很好集火，我军已发动进攻。"
+        },
+        {
+          "file": "v0_vocal_source.wav_10.wav_0004038400_0004258880.wav",
+          "dur": 6.89,
+          "voiced": 0.7768,
+          "text": "我琢磨友军也该到了吧，我已下令对任务目标发起攻击。"
+        }
+      ],
+      "ref": null,
+      "model": null,
+      "rvc": {
+        "model": "r1fba121f.pth",
+        "epochs": 15,
+        "at": "2026-10-14 22:46",
+        "weight_epoch": null,
+        "pretrained": true,
+        "index": true
+      },
+      "outputs": [],
+      "voice": {
+        "center": [
+          -0.05588779989256811,
+          0.05497643060639346,
+          -0.06018906767306298,
+          -0.07595640053338411,
+          -0.08196689767899731,
+          -0.0024047898761347507,
+          -0.12361904667362096,
+          -0.014178870964990825,
+          -0.04008026092953694,
+          0.024551741512129313,
+          0.03869498254149719,
+          0.060860632857766536,
+          0.08669012971761375,
+          -0.011712415408016076,
+          0.00984383636241032,
+          0.10204513472578271,
+          0.04107922469567434,
+          -0.01469609323504209,
+          -0.08801834392123874,
+          0.07327204230929985,
+          0.10627548035953996,
+          -0.032697265454151296,
+          -0.04900069657016532,
+          0.04097421207419733,
+          -0.019800847021914283,
+          -0.06869895414394946,
+          -0.020241929301575097,
+          0.06174190244714124,
+          -0.057814433781146236,
+          -0.029940341490722486,
+          -0.07547021233127234,
+          0.02598345983442768,
+          -0.06503863119274127,
+          0.021689067562047092,
+          0.06570676565931494,
+          -0.1181310234141627,
+          -0.022247689228070987,
+          -0.05382346446448293,
+          0.003637824870215317,
+          0.05866698834420491,
+          0.10622711258121327,
+          3.669095345310535e-05,
+          0.09769824880733269,
+          0.14308877451576854,
+          -0.1295995792122375,
+          -0.06311033963970168,
+          -0.09785875237989008,
+          -0.05904578296705633,
+          -0.03708978076804009,
+          -0.06681877426148448,
+          -0.06954793727033313,
+          0.038248848466066764,
+          0.19576148493387016,
+          0.05098244428412291,
+          0.058083220274169074,
+          0.054110057482204564,
+          0.014474813322849828,
+          -0.008228877165034995,
+          -0.03783102414754244,
+          0.046090991667935,
+          0.05023260581588497,
+          -0.1578642189384006,
+          0.01862637627193939,
+          0.06403050664931692,
+          0.1819842669121991,
+          -0.08386158282909263,
+          0.10878313549215328,
+          0.04103236823452217,
+          -0.05940205136520585,
+          -0.03276282622432005,
+          -0.010848659648766298,
+          -0.14600868714126145,
+          0.055027002037136626,
+          -0.08707400146557287,
+          -0.01412709216913056,
+          0.1388408193632757,
+          0.08761598175645158,
+          0.035153566760910596,
+          -0.04143721267444517,
+          -0.11983723014493197,
+          -0.031613206369412346,
+          0.027113744961236676,
+          0.022466593811221718,
+          0.030414062029737118,
+          0.0661172388410425,
+          -0.10431641084631299,
+          -0.00033960732240798347,
+          0.15950887256316593,
+          -0.09919723622293747,
+          0.03312316983153607,
+          0.11490548418053602,
+          -0.008975034436132744,
+          -0.09359322710985422,
+          -0.006956460678918742,
+          0.010330303187241407,
+          0.025822747998423528,
+          0.034917393197903435,
+          0.0005156546654586948,
+          -0.08543155149322404,
+          -0.18170721179746535,
+          0.17575746003340711,
+          -0.11124569877417016,
+          -0.006357863688598762,
+          -0.027649209983476565,
+          -0.007850352721790198,
+          0.010870544196902475,
+          0.08427501110026762,
+          0.022084261524146137,
+          -0.008759335421439718,
+          -0.02607937359477759,
+          -0.058111262665839464,
+          0.001512552683353835,
+          -0.042997592776912445,
+          0.03310678456414297,
+          0.05510970795484212,
+          -0.05690883395532126,
+          0.03547804965408968,
+          -0.05029821724472997,
+          0.010065780466135519,
+          0.047081073279504795,
+          0.005277187477684368,
+          -0.0007324540991745154,
+          0.0349012246370698,
+          -0.030544035306746493,
+          -0.12262850913396499,
+          -0.02518738969537788,
+          0.00918552967902744,
+          0.0704361499127238,
+          0.06643344466939795,
+          0.13961478543325892,
+          -0.10409983656226937,
+          -0.0005281786159738741,
+          -0.07705824362785457,
+          -0.010059107592726201,
+          -0.0027450445038502626,
+          0.032420784471081585,
+          0.22171086273667115,
+          0.15626794434944555,
+          -0.0034994028517572684,
+          0.09285774474758886,
+          0.05260552294155132,
+          -0.13524371562564552,
+          0.058570652428219655,
+          -0.010924512573324717,
+          -0.03408906755394253,
+          0.0010323703487475555,
+          -0.05492924767821663,
+          0.07806581374021121,
+          0.08107641946803028,
+          0.005679110600610776,
+          0.04110900073982054,
+          -0.00998311113525176,
+          0.05788204341333185,
+          0.03542369570885383,
+          0.01037222042746006,
+          -0.109967144145116,
+          0.007779236383460325,
+          -0.05670957649543939,
+          -0.03732037343354801,
+          -0.07694061136725175,
+          0.009745927213090684,
+          -0.01451492655132012,
+          0.027383553070897054,
+          -0.06662775446523361,
+          0.0036461131925225494,
+          0.04379053614988981,
+          -0.06918157935249893,
+          0.11101373551003284,
+          -0.1515956439810478,
+          -0.02897290149306157,
+          0.07963185354256301,
+          0.006961895229131053,
+          -0.05406917874484884,
+          -0.03554728880702773,
+          -0.006291292559276083,
+          0.00868577339479576,
+          -0.09952979073186435,
+          0.0026336573322795725,
+          0.025384722125562593,
+          -0.03909399279053973,
+          0.06278534453101837,
+          0.11276833253409599,
+          -0.09591288226619481,
+          0.07280755853558651,
+          -0.034242661845934816,
+          0.08889234399057283,
+          0.11520011504155457,
+          -0.01677358021835365,
+          0.12633227471442085,
+          0.010827236657458094,
+          0.01006493334049393,
+          -0.034895168110888074
+        ],
+        "n": 24,
+        "dim": 192,
+        "kind": "sv",
+        "model": "eres2net/feat_cli",
+        "at": "2026-10-16 17:01"
+      },
+      "stats": {
+        "segments": 0,
+        "seconds": 0.0
+      }
+    },
+    {
+      "id": "reae2030a",
+      "name": "角色 A",
+      "intro": "来自《srcA》《srcB》的一个声音 · 9 段素材 · 38 秒",
+      "kind": "singing",
+      "kind_locked": false,
+      "color": "#6c8cff",
+      "source": "srcA.wav、srcB.wav",
+      "created": "2026-10-16 21:34",
+      "segments": [
+        {
+          "file": "v0_vocal.wav_0000000000_0000158080.wav",
+          "dur": 4.94,
+          "voiced": 0.6444,
+          "text": "盛唐武士准备就绪，同意瑞诺朋友。"
+        },
+        {
+          "file": "v0_vocal.wav_0000176000_0000335040.wav",
+          "dur": 4.97,
+          "voiced": 0.496,
+          "text": "三堂武婿准备就训同意人意的朋友。"
+        },
+        {
+          "file": "v0_vocal.wav_0000336320_0000480320.wav",
+          "dur": 4.5,
+          "voiced": 0.7583,
+          "text": "为了达拉姆没错roris want."
+        },
+        {
+          "file": "v0_vocal.wav_0000491520_0000629760.wav",
+          "dur": 4.32,
+          "voiced": 0.4734,
+          "text": "为了达拉努没错，罗瑞错。"
+        },
+        {
+          "file": "v0_vocal.wav_0000633920_0000777600.wav",
+          "dur": 4.49,
+          "voiced": 0.7089,
+          "text": "即使是在阴影中，也并非孤身一人作战。"
+        },
+        {
+          "file": "v0_vocal.wav_0000791680_0000928640.wav",
+          "dur": 4.28,
+          "voiced": 0.5664,
+          "text": "即使是在阴影中，你也并非孤身一人作战。"
+        },
+        {
+          "file": "v0_vocal.wav_0000932160_0001085120.wav",
+          "dur": 4.78,
+          "voiced": 0.7495,
+          "text": "别让它变成了不利因素，为了爱尔之光。"
+        },
+        {
+          "file": "v0_vocal.wav_0001096320_0001242560.wav",
+          "dur": 4.57,
+          "voiced": 0.6769,
+          "text": "别让他变成了不利因素，为了爱尔之光。"
+        },
+        {
+          "file": "v0_vocal.wav_0001247040_0001279680.wav",
+          "dur": 1.015,
+          "voiced": 0.6078,
+          "text": "说的。"
+        }
+      ],
+      "ref": null,
+      "model": null,
+      "rvc": null,
+      "outputs": [],
+      "voice": {
+        "center": [
+          -0.1282425950018927,
+          0.1420846560995761,
+          -0.0684998399213868,
+          -0.031233983316125143,
+          -0.12988631812166992,
+          -0.09122346165770209,
+          -0.06710305771395057,
+          0.01802196045903177,
+          0.020750954997135754,
+          0.041316709492188845,
+          -0.02609699877013735,
+          0.044815671308804324,
+          0.07780748919626695,
+          0.01356475265100348,
+          0.016730718388856057,
+          0.010913428523253032,
+          0.0418794520329623,
+          0.04481947502385633,
+          3.138324026561766e-05,
+          0.03103231386794535,
+          0.07374855211931096,
+          -0.044085907329166785,
+          -0.01194833958343889,
+          0.06908587114805087,
+          0.08859289731537173,
+          0.04030760565401797,
+          -0.0010121405916047614,
+          -0.028212475835479357,
+          -0.05344470465249835,
+          -0.050672065852585074,
+          -0.09043499402124008,
+          0.036590629815279885,
+          -0.11757055210142245,
+          0.06015583646228481,
+          0.0363622618113127,
+          -0.12048552446757341,
+          -0.10098051934775974,
+          0.009512127460877654,
+          0.043844024217766855,
+          0.006094121552358194,
+          0.10995112008451642,
+          0.0391851158685202,
+          0.11868391089792615,
+          0.08592690763776137,
+          -0.11287419736938857,
+          -0.10386612952115229,
+          -0.04000798276998933,
+          -0.07227916766680849,
+          0.0009574893941408885,
+          -0.04921571974759057,
+          -0.03132482681048715,
+          0.04175090304715831,
+          0.07048083959490369,
+          0.09791371967426034,
+          0.04211627734342114,
+          0.1449145890052319,
+          0.036072277769241455,
+          0.07894160777819076,
+          -0.13147335863212992,
+          -0.03930353888809581,
+          0.03259456286231704,
+          -0.16322225303135815,
+          -0.08473863534699082,
+          0.03489415217339169,
+          0.18135175394646524,
+          -0.05109044341526744,
+          0.019144688624491927,
+          0.06338026747699946,
+          -0.08319514581922445,
+          -0.04252216586894365,
+          0.04294321743294323,
+          -0.1612465599030909,
+          0.04151432648100804,
+          -0.10652604569189487,
+          0.07363797490980174,
+          0.10882967709798393,
+          0.04511122100478,
+          0.004742901010776562,
+          -0.015135220571904426,
+          -0.07704839411690957,
+          -0.11587015673667413,
+          0.11371631086173395,
+          0.026674023379961664,
+          0.12636809934983204,
+          -0.03730202817346738,
+          -0.11133473957229038,
+          -0.005892700848486986,
+          0.1559348324803269,
+          -0.06567189697019962,
+          0.06732775673936621,
+          0.05525492062948394,
+          -0.04401557487591629,
+          -0.0636870832172845,
+          0.017813740744059427,
+          0.0038248894112762758,
+          0.004878031356411677,
+          -0.06412534996030694,
+          0.03403989166731076,
+          0.004750995565151546,
+          -0.18391046227665506,
+          0.10899566210222893,
+          -0.05588398462153206,
+          -0.02858176785460229,
+          0.043979641687672925,
+          0.01250554756334648,
+          0.07864049242831063,
+          0.037951323369279866,
+          0.06616988307597321,
+          -0.05703528728944014,
+          0.0009109431153981911,
+          0.007661096688592859,
+          0.09489650303293756,
+          0.05505301280134176,
+          0.021599141996348905,
+          0.11357056742559948,
+          0.020682146102775308,
+          -0.103352348151784,
+          -0.06288241610772635,
+          0.009730607878578853,
+          0.10851794865760447,
+          0.01781777247472762,
+          -0.07570627347128342,
+          -0.0042702453670931916,
+          -0.0530708315923591,
+          -0.05837079548219658,
+          -0.01973374624024371,
+          0.031882501185973314,
+          0.011886101684563385,
+          0.09393599761405515,
+          0.09671029470935893,
+          -0.011893698750321213,
+          0.007819702278350044,
+          -0.002606270314859214,
+          0.059190138505960846,
+          -0.07433280067843022,
+          -0.02123983084260767,
+          0.18796713992614145,
+          0.18089022961059073,
+          -0.047699260434689666,
+          0.012913426043337608,
+          0.07431409303355592,
+          -0.135096827339535,
+          0.015348135335701186,
+          0.14261096796348904,
+          -0.021367094649483994,
+          0.10961105552165143,
+          -0.055093983061833836,
+          0.07637582059955265,
+          0.08129395161137637,
+          -0.013348158544308993,
+          0.05771847389729639,
+          0.0043882849058597476,
+          -0.03290071528444585,
+          -0.022752465711764182,
+          0.026358221751529243,
+          -0.07305244117175481,
+          0.028408838738409478,
+          -0.00040993062053690043,
+          -0.02585519857350694,
+          -0.0893461779965161,
+          0.013686709912630136,
+          0.03295082689827818,
+          -0.04933590470601861,
+          0.04224988413016622,
+          -0.04646952039480992,
+          0.10509285353629053,
+          -0.10672037718297162,
+          0.04310109751846705,
+          -0.09112121738253023,
+          -0.008653824859782326,
+          -0.026254992863469283,
+          0.0801971446757393,
+          -0.06779538567514708,
+          -0.011558412151050157,
+          0.004645745629584388,
+          0.10047747544104507,
+          -0.03860517887741628,
+          0.0392650871637281,
+          0.049940291189786525,
+          -0.10313738124744146,
+          -0.007432169009931373,
+          0.04695433341657505,
+          -0.0551091564646571,
+          0.05423871721417239,
+          -0.036569994402014076,
+          0.06245833815463907,
+          0.027586977178520863,
+          -0.07979129760760154,
+          0.041785323040857816,
+          0.046230653308151494,
+          -0.09161615637052374,
+          -0.04995938231546991
+        ],
+        "n": 8,
+        "dim": 192,
+        "kind": "sv",
+        "model": "eres2net/feat_cli",
+        "at": "2026-10-16 21:35"
+      },
+      "stats": {
+        "segments": 9,
+        "seconds": 37.9
+      },
+      "kind_guess": {
+        "kind": "singing",
+        "conf": 0.65,
+        "why": "有声帧占比中位 0.64（歌声在这批样本上 < 0.72）"
+      },
+      "split_info": {
+        "segments": 9,
+        "seconds": 37.9
+      },
+      "_added": 9
+    },
+    {
+      "id": "r0d2c23f9",
+      "name": "角色 B",
+      "intro": "来自《srcA》《srcB》的一个声音 · 8 段素材 · 39 秒",
+      "kind": "singing",
+      "kind_locked": false,
+      "color": "#ff7a59",
+      "source": "srcA.wav、srcB.wav",
+      "created": "2026-10-16 21:35",
+      "segments": [
+        {
+          "file": "v1_vocal.wav_0000000000_0000129920.wav",
+          "dur": 4.06,
+          "voiced": 0.4693,
+          "text": "进执行官团结一致，永不言败。"
+        },
+        {
+          "file": "v1_vocal.wav_0000133120_0000306240.wav",
+          "dur": 5.41,
+          "voiced": 0.7491,
+          "text": "达拉姆万岁，新的黎明即将到来。"
+        },
+        {
+          "file": "v1_vocal.wav_0000315840_0000483520.wav",
+          "dur": 5.24,
+          "voiced": 0.5181,
+          "text": "汤姆万岁，新的黎明即将到来。"
+        },
+        {
+          "file": "v1_vocal.wav_0000487680_0000657920.wav",
+          "dur": 5.32,
+          "voiced": 0.8161,
+          "text": "为埃尔而战，团结一心，所向披靡。"
+        },
+        {
+          "file": "v1_vocal.wav_0000671360_0000838720.wav",
+          "dur": 5.23,
+          "voiced": 0.584,
+          "text": "为爱而战，团结一心，所向披靡。"
+        },
+        {
+          "file": "v1_vocal.wav_0000842880_0001019840.wav",
+          "dur": 5.53,
+          "voiced": 0.7617,
+          "text": "看来我必须独自度过这个难关，为何要拖延？"
+        },
+        {
+          "file": "v1_vocal.wav_0001030080_0001144640.wav",
+          "dur": 3.58,
+          "voiced": 0.2535,
+          "text": "看来我必须独自度过这个难关。"
+        },
+        {
+          "file": "v1_vocal.wav_0001144640_0001280320.wav",
+          "dur": 4.23,
+          "voiced": 0.691,
+          "text": "为何要拖延让我们去和敌人战斗吧？"
+        }
+      ],
+      "ref": null,
+      "model": null,
+      "rvc": null,
+      "outputs": [],
+      "voice": {
+        "center": [
+          -0.12386899552501202,
+          0.1425722517898012,
+          -0.09469653762904001,
+          -0.013980525934757662,
+          -0.11490180095786301,
+          -0.09517595953453958,
+          -0.055993603907683945,
+          0.03702044823865528,
+          0.006852801375531285,
+          0.05379875013895337,
+          -0.013041216500821738,
+          0.06589509557300219,
+          0.037549592972707775,
+          0.017276731773168533,
+          0.05002758543373926,
+          0.0031615479503597516,
+          0.005871596596294502,
+          0.038295572725269046,
+          -0.007247448433178175,
+          0.03543185822391232,
+          0.08489562454603512,
+          -0.031902647434485135,
+          -0.00733335620623841,
+          0.05948818609430304,
+          0.07943081676137936,
+          0.05271946150159759,
+          -0.05643617713471624,
+          -0.03273185713688883,
+          -0.038106820519480396,
+          -0.0870547167867501,
+          -0.10361455866470637,
+          0.05149549030465737,
+          -0.0759351474243086,
+          0.03992549734455358,
+          0.04461250047763641,
+          -0.11988160231680427,
+          -0.11356743249347745,
+          -0.010620052339119366,
+          0.06510330673351404,
+          -0.012034583844704728,
+          0.10265347189067005,
+          0.03851676778927347,
+          0.13406100812208457,
+          0.04771034141152802,
+          -0.10659618893715844,
+          -0.06919938065582233,
+          -0.024288783524336718,
+          -0.05984132689207389,
+          0.00021902076310107926,
+          -0.06698301275183756,
+          -0.03194007974108964,
+          0.03544623149725235,
+          0.0680329597706871,
+          0.06727850024460275,
+          0.032074737629140766,
+          0.14758783756413596,
+          0.06225300423562427,
+          0.08605118537034259,
+          -0.10890277888494329,
+          -0.010488449916021901,
+          -0.03870066787094098,
+          -0.17611657651213794,
+          -0.06531730371715948,
+          0.03738530737392628,
+          0.20578076972293582,
+          -0.030010616563146304,
+          0.03558719485792318,
+          0.07489579726144066,
+          -0.05480090831268507,
+          -0.07004565289847284,
+          0.05872042900164139,
+          -0.15140537209703625,
+          0.06538997114208722,
+          -0.09089684380723616,
+          0.05568741656573649,
+          0.11287456290140274,
+          0.07186559997302115,
+          -0.02731845440306384,
+          -0.023324893046503977,
+          -0.06398184810232226,
+          -0.15072590306473957,
+          0.08965471147590846,
+          0.01982270080672316,
+          0.10162977669430626,
+          -0.03894178639743347,
+          -0.09848723671131734,
+          -0.024084822655913572,
+          0.16676494265789885,
+          -0.04311456736687415,
+          0.06727188579238098,
+          0.05691334463348973,
+          -0.029752481271162867,
+          -0.1304357161201073,
+          0.013102131257182414,
+          -0.004555126061450202,
+          0.0011371135976959035,
+          -0.052316883967497965,
+          0.06939525083614724,
+          0.023779024399390922,
+          -0.20555725159007154,
+          0.10416439358840761,
+          -0.03750936840599582,
+          -0.02106577152054597,
+          0.0685213306409573,
+          0.018031637603122496,
+          0.1124789545738828,
+          0.042123177704458524,
+          0.06988025726186173,
+          -0.07019986805096513,
+          0.0239697334759926,
+          -0.013049043984073791,
+          0.067377808577441,
+          0.08822815265322087,
+          0.024749231793532337,
+          0.10538027409724958,
+          0.04668443758319397,
+          -0.09901919659285524,
+          -0.028694157471990972,
+          0.027637447232963134,
+          0.08774314622750638,
+          0.03616608530790652,
+          -0.05470172586042543,
+          0.010969851579712434,
+          -0.00092658405180685,
+          -0.038291658983643014,
+          -0.023039384450516266,
+          0.02339474532394632,
+          0.006983568409334307,
+          0.07700353022608072,
+          0.08628194735832177,
+          -0.03722550770121906,
+          -0.002841868499122553,
+          0.007994927308993855,
+          0.0322300857068406,
+          -0.11166760846995347,
+          -0.016555905248952334,
+          0.2008635653426331,
+          0.149939149448396,
+          -0.04495698984654972,
+          -0.0031872504757751324,
+          0.07156329204163282,
+          -0.1472123357981275,
+          -0.018071873613523425,
+          0.11998997405130275,
+          -0.0494090082704253,
+          0.10298426316389228,
+          -0.016916312789215952,
+          0.09655611419847408,
+          0.0544558810903904,
+          -0.06734679618034586,
+          0.04178847268961029,
+          0.001377659939740141,
+          -0.011140831736538456,
+          -0.04525957242647321,
+          -0.021097070009865233,
+          -0.07790203146516748,
+          0.019956328762767428,
+          0.008254206969873796,
+          -0.025714758718887076,
+          -0.08874103590525415,
+          0.019751532505049844,
+          0.061147738424317956,
+          -0.020063350141968084,
+          0.018729828510565934,
+          -0.056234447785641274,
+          0.11794376235853854,
+          -0.08390549368940564,
+          0.020718226686679008,
+          -0.07230087212649379,
+          -0.04166327873233322,
+          0.0027938622239143916,
+          0.04675512524993075,
+          -0.061756256585031685,
+          0.016938673757453553,
+          0.017936654984713023,
+          0.12951484246909398,
+          -0.03558719485792318,
+          0.02606805972830344,
+          0.08042543354408313,
+          -0.0756906644532604,
+          0.011709663183921568,
+          0.08552816300988637,
+          -0.04979792203990072,
+          0.05519958354884762,
+          -0.036727089272037584,
+          0.06630856749899648,
+          0.07580383109343526,
+          -0.037421641086390144,
+          0.03174058191136284,
+          0.037508269811855184,
+          -0.0750254542574141,
+          -0.05013905840794729
+        ],
+        "n": 7,
+        "dim": 192,
+        "kind": "sv",
+        "model": "eres2net/feat_cli",
+        "at": "2026-10-16 21:35"
+      },
+      "stats": {
+        "segments": 8,
+        "seconds": 38.6
+      },
+      "kind_guess": {
+        "kind": "singing",
+        "conf": 0.67,
+        "why": "有声帧占比中位 0.64（歌声在这批样本上 < 0.72）"
+      },
+      "split_info": {
+        "segments": 8,
+        "seconds": 38.6
+      },
+      "_added": 8
+    },
+    {
+      "id": "r5d12b7a9",
+      "name": "角色 A",
+      "intro": "来自《srcA》《srcB》的一个声音 · 9 段素材 · 38 秒",
+      "kind": "singing",
+      "kind_locked": false,
+      "color": "#2fb8a8",
+      "source": "srcA.wav、srcB.wav",
+      "created": "2026-10-18 16:11",
+      "segments": [
+        {
+          "file": "v0_vocal.wav_0000000000_0000237120.wav",
+          "dur": 4.94,
+          "voiced": 0.6444,
+          "text": "盛唐武士准备就绪，同意瑞诺朋友。"
+        },
+        {
+          "file": "v0_vocal.wav_0000264000_0000502560.wav",
+          "dur": 4.97,
+          "voiced": 0.494,
+          "text": "三堂武婿准备就训同意人意的朋友。"
+        },
+        {
+          "file": "v0_vocal.wav_0000504480_0000720480.wav",
+          "dur": 4.5,
+          "voiced": 0.7583,
+          "text": "为了达拉姆没错roris want."
+        },
+        {
+          "file": "v0_vocal.wav_0000737280_0000944640.wav",
+          "dur": 4.32,
+          "voiced": 0.4688,
+          "text": "为了达拉努没错，罗瑞错。"
+        },
+        {
+          "file": "v0_vocal.wav_0000950880_0001166400.wav",
+          "dur": 4.49,
+          "voiced": 0.7089,
+          "text": "即使是在阴影中，也并非孤身一人作战。"
+        },
+        {
+          "file": "v0_vocal.wav_0001187520_0001392960.wav",
+          "dur": 4.28,
+          "voiced": 0.5711,
+          "text": "即使是在阴影中，你也并非孤身一人作战。"
+        },
+        {
+          "file": "v0_vocal.wav_0001398240_0001627680.wav",
+          "dur": 4.78,
+          "voiced": 0.7495,
+          "text": "别让它变成了不利因素，为了爱尔之光。"
+        },
+        {
+          "file": "v0_vocal.wav_0001644480_0001863840.wav",
+          "dur": 4.57,
+          "voiced": 0.6747,
+          "text": "别让他变成了不利因素，为了爱尔之光。"
+        },
+        {
+          "file": "v0_vocal.wav_0001870560_0001919520.wav",
+          "dur": 1.015,
+          "voiced": 0.6078,
+          "text": "说的。"
+        }
+      ],
+      "ref": null,
+      "model": null,
+      "rvc": null,
+      "outputs": [],
+      "voice": {
+        "center": [
+          -0.1281527316122021,
+          0.14295882814460187,
+          -0.06858556114470615,
+          -0.03173316276636019,
+          -0.13087115524093132,
+          -0.09069031361075637,
+          -0.06817417657363992,
+          0.018326628697215113,
+          0.020263088138881873,
+          0.0417774903743952,
+          -0.024544376652269367,
+          0.044755054378212145,
+          0.07781364509937495,
+          0.013778373352276574,
+          0.017488196317015557,
+          0.010975996006524552,
+          0.042069382094999636,
+          0.04454280046592119,
+          0.0004971038871064795,
+          0.032058353064925334,
+          0.07420589647315366,
+          -0.04350170622891145,
+          -0.011144884328913182,
+          0.0690534242340499,
+          0.0880863544890884,
+          0.04058163260713645,
+          -0.0012866157518400378,
+          -0.02780126668075952,
+          -0.052686951175841046,
+          -0.05089971066400009,
+          -0.09026077744277392,
+          0.03784909451140806,
+          -0.11705320562529867,
+          0.06063424275788527,
+          0.0372098340905456,
+          -0.12043308872686416,
+          -0.10068373827635846,
+          0.009793746774382767,
+          0.043448593706421575,
+          0.005219028094463359,
+          0.10975302157086114,
+          0.03872028856226478,
+          0.1184527577634129,
+          0.08648917916270503,
+          -0.11291104837951446,
+          -0.10322722305039361,
+          -0.03995749851703753,
+          -0.07259865413482869,
+          0.0009090047151953527,
+          -0.049028031153535025,
+          -0.03197062034649676,
+          0.04088111330597379,
+          0.0711965310367417,
+          0.09790632712022163,
+          0.04264465762047527,
+          0.1450682233637148,
+          0.03605959279380791,
+          0.07826424455388142,
+          -0.1319198074807526,
+          -0.03875154276241581,
+          0.03143924731822699,
+          -0.16358894405116417,
+          -0.08266162894652171,
+          0.03534897532727522,
+          0.182020930481561,
+          -0.051164395639511036,
+          0.019439813064867226,
+          0.06290596983519924,
+          -0.08293587500209205,
+          -0.04344222309476211,
+          0.042539774843754374,
+          -0.16121738319081078,
+          0.0408875148930546,
+          -0.10643767059712646,
+          0.07316053795313689,
+          0.10910870183117674,
+          0.04566453404986833,
+          0.0050476204378042105,
+          -0.01465447184484843,
+          -0.07670449786163995,
+          -0.1152664710453399,
+          0.11288284009579704,
+          0.026226755037670337,
+          0.12746303288022706,
+          -0.03678280693169318,
+          -0.11100938466117408,
+          -0.00578067443454113,
+          0.15644200573132908,
+          -0.06478824293976901,
+          0.06784746847942821,
+          0.05525059062404034,
+          -0.044802446772891115,
+          -0.06367304516972856,
+          0.017512398446237233,
+          0.003106112002455967,
+          0.0038719379949904956,
+          -0.06300149803466978,
+          0.03462653557492392,
+          0.004202641918557496,
+          -0.18438442740722064,
+          0.10897056177705693,
+          -0.055870450105991745,
+          -0.028709362783595014,
+          0.043259230630514775,
+          0.011846684125499067,
+          0.07924746637865246,
+          0.03804573681133419,
+          0.06579453112831189,
+          -0.05614093781043725,
+          0.000526334359728734,
+          0.007564177245538131,
+          0.09443673919840104,
+          0.054493850755104406,
+          0.022215179843194374,
+          0.11374996604131529,
+          0.02040526532291877,
+          -0.10323065099702398,
+          -0.06351372825253981,
+          0.008617940429883614,
+          0.10889796571453238,
+          0.017134787409592553,
+          -0.07607227918656635,
+          -0.0051716460249248445,
+          -0.05311927513174583,
+          -0.05864103634428919,
+          -0.020675474248572034,
+          0.032213632852197,
+          0.011431768356397937,
+          0.09384886700157281,
+          0.09739007009757494,
+          -0.012803566516974677,
+          0.008074094631946704,
+          -0.002852526552931922,
+          0.059208237609930645,
+          -0.07435312265087204,
+          -0.021532553832429583,
+          0.18865161177874942,
+          0.1808109582473031,
+          -0.04773410520225431,
+          0.013454948652728891,
+          0.07352275420536623,
+          -0.13513431280768348,
+          0.014477385360940169,
+          0.14206344228966394,
+          -0.02026862241416464,
+          0.10898668964644441,
+          -0.0553030320124008,
+          0.0758061073908302,
+          0.08073802430471885,
+          -0.01382802695271473,
+          0.057561398357968654,
+          0.004472634016261254,
+          -0.0336741755949667,
+          -0.022622042002742218,
+          0.026635640924746958,
+          -0.07337100561612946,
+          0.028599833693670296,
+          -0.0006574120177787225,
+          -0.026140550440028797,
+          -0.08857740784388947,
+          0.014518727223313715,
+          0.03300011945077785,
+          -0.05022918571784613,
+          0.041464173987350944,
+          -0.04631944738365745,
+          0.10531239549000397,
+          -0.10696200187960733,
+          0.04337165075976632,
+          -0.09207121854521261,
+          -0.009653593317874647,
+          -0.026436314088303076,
+          0.07966088500238792,
+          -0.06752884497019113,
+          -0.012308868387593729,
+          0.005132823496821816,
+          0.10022242132606182,
+          -0.038126386483412045,
+          0.03888364260937063,
+          0.04954026137140506,
+          -0.10179943165314062,
+          -0.007283054646426111,
+          0.04747346768180091,
+          -0.0547918033331547,
+          0.05442478589061474,
+          -0.0364921542279431,
+          0.06289764777199418,
+          0.028079560191387434,
+          -0.08031224648786121,
+          0.04139534660109169,
+          0.046763624600802196,
+          -0.09127868141432637,
+          -0.0496131052373005
+        ],
+        "n": 8,
+        "dim": 192,
+        "kind": "sv",
+        "model": "eres2net/feat_cli",
+        "at": "2026-10-18 16:11"
+      },
+      "stats": {
+        "segments": 9,
+        "seconds": 37.9
+      },
+      "kind_guess": {
+        "kind": "singing",
+        "conf": 0.65,
+        "why": "有声帧占比中位 0.64（歌声在这批样本上 < 0.72）"
+      },
+      "split_info": {
+        "segments": 9,
+        "seconds": 37.9
+      },
+      "_added": 9
+    },
+    {
+      "id": "rc779b30b",
+      "name": "角色 B",
+      "intro": "来自《srcA》《srcB》的一个声音 · 8 段素材 · 39 秒",
+      "kind": "singing",
+      "kind_locked": false,
+      "color": "#c86dd7",
+      "source": "srcA.wav、srcB.wav",
+      "created": "2026-10-18 16:11",
+      "segments": [
+        {
+          "file": "v1_vocal.wav_0000000000_0000194880.wav",
+          "dur": 4.06,
+          "voiced": 0.4717,
+          "text": "进执行官团结一致，永不言败。"
+        },
+        {
+          "file": "v1_vocal.wav_0000199680_0000459360.wav",
+          "dur": 5.41,
+          "voiced": 0.7491,
+          "text": "达拉姆万岁，新的黎明即将到来。"
+        },
+        {
+          "file": "v1_vocal.wav_0000473760_0000725280.wav",
+          "dur": 5.24,
+          "voiced": 0.5181,
+          "text": "汤姆万岁，新的黎明即将到来。"
+        },
+        {
+          "file": "v1_vocal.wav_0000731520_0000986880.wav",
+          "dur": 5.32,
+          "voiced": 0.8161,
+          "text": "为埃尔而战，团结一心，所向披靡。"
+        },
+        {
+          "file": "v1_vocal.wav_0001007040_0001258080.wav",
+          "dur": 5.23,
+          "voiced": 0.584,
+          "text": "为爱而战，团结一心，所向披靡。"
+        },
+        {
+          "file": "v1_vocal.wav_0001264320_0001529760.wav",
+          "dur": 5.53,
+          "voiced": 0.7617,
+          "text": "看来我必须独自度过这个难关，为何要拖延？"
+        },
+        {
+          "file": "v1_vocal.wav_0001545120_0001716960.wav",
+          "dur": 3.58,
+          "voiced": 0.2535,
+          "text": "看来我必须独自度过这个难关。"
+        },
+        {
+          "file": "v1_vocal.wav_0001716960_0001920480.wav",
+          "dur": 4.23,
+          "voiced": 0.691,
+          "text": "为何要拖延让我们去和敌人战斗吧？"
+        }
+      ],
+      "ref": null,
+      "model": null,
+      "rvc": null,
+      "outputs": [],
+      "voice": null,
+      "stats": {
+        "segments": 8,
+        "seconds": 38.6
+      },
+      "kind_guess": {
+        "kind": "singing",
+        "conf": 0.67,
+        "why": "有声帧占比中位 0.64（歌声在这批样本上 < 0.72）"
+      },
+      "split_info": {
+        "segments": 8,
+        "seconds": 38.6
+      },
+      "_added": 8
+    }
+  ]
+}
